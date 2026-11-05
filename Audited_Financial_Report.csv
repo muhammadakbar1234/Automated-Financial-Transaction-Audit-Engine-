@@ -1,0 +1,1000 @@
+Txn_ID,Account_Holders,Txn_Type,Amount_USD,Status,Txn_Date,Day_Of_Week,Risk_Level
+TXN2001,Global Tech Corp,Wire Transfer,220000,Completed,2024-04-10 00:00:00,Wednesday,HIGH_RISK
+TXN2002,David Miller,POS Payment,126761.191,Pending,2024-04-11 00:00:00,Thursday,NORMAL
+TXN2003,Elena Rostova,Wire Transfer,45000,Completed,2024-04-12 00:00:00,Friday,NORMAL
+TXN2005,Northstar Trading LLC,Wire Transfer,61241.84,Pending,2024-06-04 00:00:00,Tuesday,HIGH_RISK
+TXN2006,Horizon Healthcare,Wire Transfer,7969.88,Completed,2024-08-10 00:00:00,Saturday,NORMAL
+TXN2007,Isabella Garcia,Bank Transfer,49729.44,Completed,2025-01-17 00:00:00,Friday,NORMAL
+TXN2008,Pioneer Imports,POS Payment,69565.72,Completed,2024-07-03 00:00:00,Wednesday,NORMAL
+TXN2009,Pioneer Imports,ATM Withdrawal,53848.06,Completed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2010,Elena Rostova,Online Payment,211877.4,Completed,2024-05-05 00:00:00,Sunday,NORMAL
+TXN2011,James Robinson,Bank Transfer,230575.79,Completed,2024-09-10 00:00:00,Tuesday,NORMAL
+TXN2012,Summit Energy Ltd,ATM Withdrawal,126761.191,Completed,2024-08-07 00:00:00,Wednesday,NORMAL
+TXN2013,Vertex Logistics,Wire Transfer,216624.25,Pending,2024-12-01 00:00:00,Sunday,HIGH_RISK
+TXN2014,Crescent Retail Group,POS Payment,52396.52,Completed,2025-03-28 00:00:00,Friday,NORMAL
+TXN2015,Elena Rostova,Bank Transfer,133546.62,Completed,2024-12-05 00:00:00,Thursday,NORMAL
+TXN2016,Emma Thompson,ATM Withdrawal,160008.94,Reversed,2025-03-29 00:00:00,Saturday,NORMAL
+TXN2017,Noah Wilson,Wire Transfer,8049.26,Completed,2024-08-28 00:00:00,Wednesday,NORMAL
+TXN2018,Elena Rostova,POS Payment,141805.83,Failed,2024-07-30 00:00:00,Tuesday,NORMAL
+TXN2019,Silverline Technologies,Online Payment,160721.9,Failed,2024-06-23 00:00:00,Sunday,NORMAL
+TXN2020,Bluewave Solutions,Cash Deposit,65703.83,Completed,2025-02-05 00:00:00,Wednesday,NORMAL
+TXN2021,Emma Thompson,ATM Withdrawal,249384.46,Completed,2024-05-29 00:00:00,Wednesday,NORMAL
+TXN2022,David Miller,Wire Transfer,40016.5,Completed,2025-02-12 00:00:00,Wednesday,NORMAL
+TXN2023,Elena Rostova,Online Payment,249030.44,Completed,2025-01-21 00:00:00,Tuesday,NORMAL
+TXN2024,Global Tech Corp,Cash Deposit,170435.55,Pending,2024-08-27 00:00:00,Tuesday,NORMAL
+TXN2025,Noah Wilson,Wire Transfer,126761.191,Completed,2024-08-25 00:00:00,Sunday,HIGH_RISK
+TXN2026,Isabella Garcia,POS Payment,26625.05,Completed,2025-03-06 00:00:00,Thursday,NORMAL
+TXN2027,Isabella Garcia,Bank Transfer,93494.12,Completed,2025-01-09 00:00:00,Thursday,NORMAL
+TXN2028,Global Tech Corp,Bank Transfer,4893.7,Completed,2024-09-17 00:00:00,Tuesday,NORMAL
+TXN2029,Bluewave Solutions,Wire Transfer,141850.05,Completed,2024-12-17 00:00:00,Tuesday,HIGH_RISK
+TXN2030,Elena Rostova,Bank Transfer,32119.66,Pending,2025-01-19 00:00:00,Sunday,NORMAL
+TXN2031,Apex Manufacturing Ltd,ATM Withdrawal,151658.31,Completed,2025-01-14 00:00:00,Tuesday,NORMAL
+TXN2032,Liam Anderson,Cash Deposit,248787.46,Completed,2024-11-23 00:00:00,Saturday,NORMAL
+TXN2033,Isabella Garcia,Online Payment,56193.72,Completed,2025-02-08 00:00:00,Saturday,NORMAL
+TXN2034,Horizon Healthcare,POS Payment,1822.53,Completed,2024-05-13 00:00:00,Monday,NORMAL
+TXN2035,Bluewave Solutions,Wire Transfer,214912.36,Failed,2024-08-12 00:00:00,Monday,HIGH_RISK
+TXN2036,Olivia Carter,Cash Deposit,134820,Completed,2025-01-30 00:00:00,Thursday,NORMAL
+TXN2037,Mason Lee,Online Payment,118256.41,Completed,2024-05-31 00:00:00,Friday,NORMAL
+TXN2038,Northstar Trading LLC,Cash Deposit,105909.07,Completed,2024-05-10 00:00:00,Friday,NORMAL
+TXN2039,Northstar Trading LLC,Wire Transfer,84842.17,Completed,2024-08-18 00:00:00,Sunday,HIGH_RISK
+TXN2040,Liam Anderson,POS Payment,35067.07,Completed,2024-12-05 00:00:00,Thursday,NORMAL
+TXN2041,Bluewave Solutions,Wire Transfer,215340.74,Completed,2024-05-08 00:00:00,Wednesday,HIGH_RISK
+TXN2042,Horizon Healthcare,Wire Transfer,231593.59,Reversed,2024-07-07 00:00:00,Sunday,HIGH_RISK
+TXN2043,Pioneer Imports,Online Payment,216165.98,Completed,2024-07-06 00:00:00,Saturday,NORMAL
+TXN2044,Emma Thompson,Wire Transfer,66319.13,Reversed,2024-12-01 00:00:00,Sunday,HIGH_RISK
+TXN2045,Vertex Logistics,Online Payment,182633.07,Completed,2025-03-17 00:00:00,Monday,NORMAL
+TXN2046,Silverline Technologies,POS Payment,126761.191,Completed,2025-01-15 00:00:00,Wednesday,NORMAL
+TXN2047,David Miller,Cash Deposit,12559.33,Completed,2025-01-09 00:00:00,Thursday,NORMAL
+TXN2048,Apex Manufacturing Ltd,Wire Transfer,20050.86,Reversed,2025-02-11 00:00:00,Tuesday,NORMAL
+TXN2049,Elena Rostova,Cash Deposit,100958.79,Pending,2025-01-29 00:00:00,Wednesday,NORMAL
+TXN2050,Bluewave Solutions,Bank Transfer,154854.89,Completed,2025-02-05 00:00:00,Wednesday,NORMAL
+TXN2051,Mason Lee,Bank Transfer,65209.9,Completed,2024-09-20 00:00:00,Friday,NORMAL
+TXN2052,Bluewave Solutions,ATM Withdrawal,167930.76,Completed,2024-09-21 00:00:00,Saturday,NORMAL
+TXN2053,Elena Rostova,Wire Transfer,249613.65,Completed,2024-05-20 00:00:00,Monday,HIGH_RISK
+TXN2054,Horizon Healthcare,POS Payment,33135.83,Completed,2024-05-18 00:00:00,Saturday,NORMAL
+TXN2055,Bluewave Solutions,ATM Withdrawal,109560.19,Completed,2024-09-14 00:00:00,Saturday,NORMAL
+TXN2056,Summit Energy Ltd,Cash Deposit,166974.1,Completed,2025-03-18 00:00:00,Tuesday,NORMAL
+TXN2057,Northstar Trading LLC,POS Payment,222430.93,Completed,2024-07-01 00:00:00,Monday,NORMAL
+TXN2058,Olivia Carter,ATM Withdrawal,179410.11,Completed,2025-03-03 00:00:00,Monday,NORMAL
+TXN2059,Olivia Carter,Bank Transfer,226336.49,Completed,2024-05-30 00:00:00,Thursday,NORMAL
+TXN2060,Pioneer Imports,ATM Withdrawal,83405.8,Completed,2024-08-25 00:00:00,Sunday,NORMAL
+TXN2061,Apex Manufacturing Ltd,Cash Deposit,176424.22,Completed,2024-06-09 00:00:00,Sunday,NORMAL
+TXN2062,Elena Rostova,Cash Deposit,136408.93,Failed,2025-02-05 00:00:00,Wednesday,NORMAL
+TXN2063,Horizon Healthcare,POS Payment,10481.17,Completed,2024-05-03 00:00:00,Friday,NORMAL
+TXN2064,Crescent Retail Group,POS Payment,166741.68,Completed,2025-01-24 00:00:00,Friday,NORMAL
+TXN2065,Pioneer Imports,Bank Transfer,231442.81,Pending,2024-07-05 00:00:00,Friday,NORMAL
+TXN2066,Apex Manufacturing Ltd,Online Payment,184147.7,Completed,2024-11-09 00:00:00,Saturday,NORMAL
+TXN2067,Bluewave Solutions,ATM Withdrawal,175327.02,Completed,2024-05-02 00:00:00,Thursday,NORMAL
+TXN2068,Silverline Technologies,POS Payment,229615.01,Completed,2024-08-07 00:00:00,Wednesday,NORMAL
+TXN2069,Bluewave Solutions,Wire Transfer,99631.53,Completed,2024-05-18 00:00:00,Saturday,HIGH_RISK
+TXN2070,Olivia Carter,ATM Withdrawal,99934.6,Completed,2025-01-12 00:00:00,Sunday,NORMAL
+TXN2071,Noah Wilson,Wire Transfer,242600.89,Completed,2024-08-26 00:00:00,Monday,HIGH_RISK
+TXN2072,David Miller,Wire Transfer,86438.14,Completed,2024-11-22 00:00:00,Friday,HIGH_RISK
+TXN2073,Summit Energy Ltd,Bank Transfer,224878.7,Completed,2024-05-05 00:00:00,Sunday,NORMAL
+TXN2074,Pioneer Imports,Wire Transfer,201632.55,Completed,2025-03-22 00:00:00,Saturday,HIGH_RISK
+TXN2075,Liam Anderson,ATM Withdrawal,237219.9,Completed,2025-02-26 00:00:00,Wednesday,NORMAL
+TXN2076,Noah Wilson,Cash Deposit,179945.57,Pending,2024-09-18 00:00:00,Wednesday,NORMAL
+TXN2077,Pioneer Imports,ATM Withdrawal,73931.41,Completed,2024-11-14 00:00:00,Thursday,NORMAL
+TXN2078,Emma Thompson,Cash Deposit,43527.49,Pending,2024-11-06 00:00:00,Wednesday,NORMAL
+TXN2079,Horizon Healthcare,Wire Transfer,52565.42,Completed,2025-02-17 00:00:00,Monday,HIGH_RISK
+TXN2080,Noah Wilson,Online Payment,168914.92,Completed,2024-07-08 00:00:00,Monday,NORMAL
+TXN2081,Elena Rostova,ATM Withdrawal,158244.39,Completed,2024-08-11 00:00:00,Sunday,NORMAL
+TXN2082,Vertex Logistics,POS Payment,126761.191,Pending,2024-12-12 00:00:00,Thursday,NORMAL
+TXN2083,Summit Energy Ltd,Wire Transfer,221537.07,Completed,2025-04-04 00:00:00,Friday,HIGH_RISK
+TXN2084,Emma Thompson,Online Payment,36914.15,Completed,2024-06-06 00:00:00,Thursday,NORMAL
+TXN2085,Pioneer Imports,POS Payment,239492.56,Completed,2024-05-08 00:00:00,Wednesday,NORMAL
+TXN2086,Horizon Healthcare,POS Payment,30361.62,Failed,2024-12-06 00:00:00,Friday,NORMAL
+TXN2087,Isabella Garcia,Bank Transfer,237511.15,Completed,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2088,Isabella Garcia,Online Payment,136979.29,Pending,2024-12-12 00:00:00,Thursday,NORMAL
+TXN2089,James Robinson,ATM Withdrawal,209969.73,Pending,2025-01-04 00:00:00,Saturday,NORMAL
+TXN2090,Silverline Technologies,Cash Deposit,109982.15,Completed,2024-08-11 00:00:00,Sunday,NORMAL
+TXN2091,Olivia Carter,ATM Withdrawal,135049.55,Completed,2024-08-09 00:00:00,Friday,NORMAL
+TXN2092,Emma Thompson,Cash Deposit,53507.87,Completed,2024-09-29 00:00:00,Sunday,NORMAL
+TXN2093,Horizon Healthcare,Online Payment,51728.43,Completed,2025-02-06 00:00:00,Thursday,NORMAL
+TXN2094,Global Tech Corp,Bank Transfer,1498.87,Completed,2024-10-29 00:00:00,Tuesday,NORMAL
+TXN2095,Pioneer Imports,Bank Transfer,136544.42,Pending,2024-08-03 00:00:00,Saturday,NORMAL
+TXN2096,Silverline Technologies,POS Payment,121423.36,Completed,2025-03-21 00:00:00,Friday,NORMAL
+TXN2097,Emma Thompson,Cash Deposit,116860.85,Completed,2025-02-25 00:00:00,Tuesday,NORMAL
+TXN2098,Horizon Healthcare,Wire Transfer,147983.4,Failed,2024-05-25 00:00:00,Saturday,HIGH_RISK
+TXN2099,Pioneer Imports,POS Payment,45452.71,Pending,2024-09-27 00:00:00,Friday,NORMAL
+TXN2100,Liam Anderson,Online Payment,190313.4,Completed,2024-11-14 00:00:00,Thursday,NORMAL
+TXN2101,Olivia Carter,Wire Transfer,126761.191,Completed,2024-10-09 00:00:00,Wednesday,HIGH_RISK
+TXN2102,Bluewave Solutions,Cash Deposit,126761.191,Completed,2024-04-28 00:00:00,Sunday,NORMAL
+TXN2103,Bluewave Solutions,POS Payment,155343.38,Pending,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2104,Northstar Trading LLC,Bank Transfer,116271.87,Failed,2024-10-18 00:00:00,Friday,NORMAL
+TXN2105,Apex Manufacturing Ltd,Bank Transfer,186987.71,Completed,2024-07-05 00:00:00,Friday,NORMAL
+TXN2106,Vertex Logistics,Wire Transfer,232223.57,Completed,2024-10-22 00:00:00,Tuesday,HIGH_RISK
+TXN2107,Emma Thompson,Cash Deposit,148034.66,Completed,2024-08-15 00:00:00,Thursday,NORMAL
+TXN2108,Northstar Trading LLC,Cash Deposit,212577.05,Pending,2024-06-13 00:00:00,Thursday,NORMAL
+TXN2109,Mason Lee,Wire Transfer,107108.79,Completed,2024-12-28 00:00:00,Saturday,HIGH_RISK
+TXN2110,Noah Wilson,Wire Transfer,205587.17,,2024-10-15 00:00:00,Tuesday,HIGH_RISK
+TXN2111,James Robinson,Cash Deposit,44054.84,Completed,2025-03-12 00:00:00,Wednesday,NORMAL
+TXN2112,Olivia Carter,Bank Transfer,134554.77,Pending,2024-11-22 00:00:00,Friday,NORMAL
+TXN2113,Mason Lee,ATM Withdrawal,61392.65,Completed,2024-09-02 00:00:00,Monday,NORMAL
+TXN2114,James Robinson,POS Payment,142473.16,Pending,2024-10-02 00:00:00,Wednesday,NORMAL
+TXN2115,Global Tech Corp,Online Payment,45480.42,Pending,2024-08-23 00:00:00,Friday,NORMAL
+TXN2116,Noah Wilson,ATM Withdrawal,175303.41,Failed,2024-04-18 00:00:00,Thursday,NORMAL
+TXN2117,Isabella Garcia,POS Payment,180025.66,Completed,2024-08-14 00:00:00,Wednesday,NORMAL
+TXN2118,Silverline Technologies,Cash Deposit,126761.191,Completed,2024-09-10 00:00:00,Tuesday,NORMAL
+TXN2119,Bluewave Solutions,Online Payment,76568.85,Completed,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2120,Horizon Healthcare,Bank Transfer,249157.95,Completed,2024-10-10 00:00:00,Thursday,NORMAL
+TXN2121,James Robinson,ATM Withdrawal,57653.75,Completed,2024-09-21 00:00:00,Saturday,NORMAL
+TXN2122,Northstar Trading LLC,Cash Deposit,190553.35,Completed,2024-08-01 00:00:00,Thursday,NORMAL
+TXN2123,Silverline Technologies,ATM Withdrawal,244152.34,Pending,2024-09-04 00:00:00,Wednesday,NORMAL
+TXN2124,Northstar Trading LLC,POS Payment,90236.25,Completed,2025-04-10 00:00:00,Thursday,NORMAL
+TXN2125,Horizon Healthcare,POS Payment,243574.38,Completed,2025-04-05 00:00:00,Saturday,NORMAL
+TXN2126,Sophia Bennett,Cash Deposit,122732.4,Pending,2025-01-31 00:00:00,Friday,NORMAL
+TXN2127,Vertex Logistics,Online Payment,85192.97,Completed,2024-08-20 00:00:00,Tuesday,NORMAL
+TXN2128,Silverline Technologies,Wire Transfer,100191.84,Pending,2025-03-01 00:00:00,Saturday,HIGH_RISK
+TXN2129,David Miller,POS Payment,140720.83,Completed,2024-08-18 00:00:00,Sunday,NORMAL
+TXN2130,Northstar Trading LLC,Bank Transfer,151589.25,Pending,2024-08-06 00:00:00,Tuesday,NORMAL
+TXN2131,Isabella Garcia,Online Payment,110694.18,Completed,2024-11-18 00:00:00,Monday,NORMAL
+TXN2132,Vertex Logistics,Bank Transfer,152417.49,Completed,2024-07-28 00:00:00,Sunday,NORMAL
+TXN2133,Liam Anderson,ATM Withdrawal,39285.35,Completed,2024-05-21 00:00:00,Tuesday,NORMAL
+TXN2134,Apex Manufacturing Ltd,Wire Transfer,172350.55,Completed,2024-04-29 00:00:00,Monday,HIGH_RISK
+TXN2135,Bluewave Solutions,ATM Withdrawal,175754.31,,2025-03-30 00:00:00,Sunday,NORMAL
+TXN2136,Bluewave Solutions,ATM Withdrawal,156273.88,Pending,2024-07-23 00:00:00,Tuesday,NORMAL
+TXN2137,Pioneer Imports,Wire Transfer,161917.49,Completed,2024-06-24 00:00:00,Monday,HIGH_RISK
+TXN2138,Elena Rostova,Wire Transfer,76920.26,Completed,2025-01-29 00:00:00,Wednesday,HIGH_RISK
+TXN2139,Vertex Logistics,Online Payment,172177.28,Completed,2024-08-30 00:00:00,Friday,NORMAL
+TXN2140,Isabella Garcia,Bank Transfer,126761.191,Completed,2024-11-20 00:00:00,Wednesday,NORMAL
+TXN2141,Noah Wilson,Bank Transfer,22854.44,Completed,2025-02-01 00:00:00,Saturday,NORMAL
+TXN2142,Mason Lee,Wire Transfer,168078.59,Reversed,2024-05-03 00:00:00,Friday,HIGH_RISK
+TXN2143,Apex Manufacturing Ltd,Online Payment,110571.3,Completed,2025-02-06 00:00:00,Thursday,NORMAL
+TXN2144,Pioneer Imports,Cash Deposit,242264.58,Pending,2024-11-08 00:00:00,Friday,NORMAL
+TXN2145,Noah Wilson,ATM Withdrawal,214436.83,Completed,2025-04-03 00:00:00,Thursday,NORMAL
+TXN2146,Silverline Technologies,ATM Withdrawal,100128.05,Completed,2024-05-01 00:00:00,Wednesday,NORMAL
+TXN2147,James Robinson,Wire Transfer,80835.36,Completed,2024-11-05 00:00:00,Tuesday,HIGH_RISK
+TXN2148,Isabella Garcia,Wire Transfer,135659.83,Completed,2024-07-18 00:00:00,Thursday,HIGH_RISK
+TXN2149,Isabella Garcia,ATM Withdrawal,124635.81,Completed,2024-05-09 00:00:00,Thursday,NORMAL
+TXN2150,Liam Anderson,ATM Withdrawal,231920,Completed,2025-04-05 00:00:00,Saturday,NORMAL
+TXN2151,Silverline Technologies,Wire Transfer,157514.82,Completed,2025-04-11 00:00:00,Friday,HIGH_RISK
+TXN2152,Apex Manufacturing Ltd,ATM Withdrawal,138074.05,Completed,2024-06-10 00:00:00,Monday,NORMAL
+TXN2153,James Robinson,Wire Transfer,38513.93,Completed,2024-09-09 00:00:00,Monday,NORMAL
+TXN2154,Isabella Garcia,Cash Deposit,208685.12,Completed,2024-08-15 00:00:00,Thursday,NORMAL
+TXN2155,James Robinson,Bank Transfer,47672.83,Completed,2024-06-21 00:00:00,Friday,NORMAL
+TXN2156,Elena Rostova,ATM Withdrawal,213606.73,Pending,2024-12-28 00:00:00,Saturday,NORMAL
+TXN2157,Olivia Carter,Wire Transfer,74656.5,Completed,2025-03-16 00:00:00,Sunday,HIGH_RISK
+TXN2158,Silverline Technologies,POS Payment,121098.24,Completed,2025-01-16 00:00:00,Thursday,NORMAL
+TXN2159,Emma Thompson,Online Payment,217403.68,Failed,2024-08-13 00:00:00,Tuesday,NORMAL
+TXN2160,Mason Lee,Online Payment,126761.191,Completed,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2161,Emma Thompson,Online Payment,198103.61,Reversed,2024-06-29 00:00:00,Saturday,NORMAL
+TXN2162,Silverline Technologies,Wire Transfer,241339.26,Completed,2024-06-03 00:00:00,Monday,HIGH_RISK
+TXN2163,James Robinson,Wire Transfer,114245.6,Completed,2024-11-08 00:00:00,Friday,HIGH_RISK
+TXN2164,Sophia Bennett,Wire Transfer,242301.68,Completed,2025-04-02 00:00:00,Wednesday,HIGH_RISK
+TXN2165,Emma Thompson,Cash Deposit,82158.18,Completed,2025-01-11 00:00:00,Saturday,NORMAL
+TXN2166,Emma Thompson,ATM Withdrawal,221862.48,Completed,2025-01-15 00:00:00,Wednesday,NORMAL
+TXN2167,David Miller,Bank Transfer,157799.48,Completed,2024-08-07 00:00:00,Wednesday,NORMAL
+TXN2168,Elena Rostova,Online Payment,190098.41,Reversed,2024-06-03 00:00:00,Monday,NORMAL
+TXN2169,James Robinson,POS Payment,126761.191,Completed,2024-05-11 00:00:00,Saturday,NORMAL
+TXN2170,Vertex Logistics,ATM Withdrawal,36413.81,Completed,2025-01-27 00:00:00,Monday,NORMAL
+TXN2171,Apex Manufacturing Ltd,POS Payment,152382.71,Completed,2025-03-28 00:00:00,Friday,NORMAL
+TXN2172,Bluewave Solutions,Online Payment,35800.85,Failed,2024-08-21 00:00:00,Wednesday,NORMAL
+TXN2173,James Robinson,ATM Withdrawal,224729.66,Completed,2024-09-07 00:00:00,Saturday,NORMAL
+TXN2174,Horizon Healthcare,POS Payment,236310.28,Completed,2024-09-13 00:00:00,Friday,NORMAL
+TXN2175,Pioneer Imports,Cash Deposit,211329.85,Completed,2024-10-26 00:00:00,Saturday,NORMAL
+TXN2176,Silverline Technologies,Wire Transfer,142991.38,Completed,2025-04-06 00:00:00,Sunday,HIGH_RISK
+TXN2177,Vertex Logistics,Wire Transfer,164566,Reversed,2025-01-27 00:00:00,Monday,HIGH_RISK
+TXN2178,David Miller,Bank Transfer,208213.9,Pending,2024-08-08 00:00:00,Thursday,NORMAL
+TXN2179,,ATM Withdrawal,47553.24,Completed,2025-03-16 00:00:00,Sunday,NORMAL
+TXN2180,Sophia Bennett,Cash Deposit,126761.191,Completed,2024-11-24 00:00:00,Sunday,NORMAL
+TXN2181,David Miller,Bank Transfer,32874.67,Completed,2024-09-27 00:00:00,Friday,NORMAL
+TXN2182,Pioneer Imports,POS Payment,196633.54,Completed,2024-10-17 00:00:00,Thursday,NORMAL
+TXN2183,Isabella Garcia,Bank Transfer,207622.39,Failed,2024-12-15 00:00:00,Sunday,NORMAL
+TXN2184,Vertex Logistics,Cash Deposit,201063.03,Failed,2024-05-21 00:00:00,Tuesday,NORMAL
+TXN2185,Sophia Bennett,POS Payment,181061.07,Pending,2025-01-23 00:00:00,Thursday,NORMAL
+TXN2186,Crescent Retail Group,Wire Transfer,3504.32,Pending,2024-12-01 00:00:00,Sunday,NORMAL
+TXN2187,Crescent Retail Group,Cash Deposit,65558.8,Pending,2025-03-05 00:00:00,Wednesday,NORMAL
+TXN2188,Crescent Retail Group,Wire Transfer,117882.43,Completed,2025-01-25 00:00:00,Saturday,HIGH_RISK
+TXN2189,Noah Wilson,Bank Transfer,15827.68,Completed,2025-04-06 00:00:00,Sunday,NORMAL
+TXN2190,Vertex Logistics,Cash Deposit,34965.76,Completed,2024-09-15 00:00:00,Sunday,NORMAL
+TXN2191,Silverline Technologies,Wire Transfer,221817.65,Completed,2024-12-01 00:00:00,Sunday,HIGH_RISK
+TXN2192,Crescent Retail Group,Cash Deposit,174128.59,Failed,2025-02-07 00:00:00,Friday,NORMAL
+TXN2193,Sophia Bennett,Online Payment,208427.43,Completed,2024-09-03 00:00:00,Tuesday,NORMAL
+TXN2194,David Miller,Cash Deposit,110859.69,Completed,2024-10-15 00:00:00,Tuesday,NORMAL
+TXN2195,Northstar Trading LLC,Cash Deposit,225426.51,Completed,2024-05-14 00:00:00,Tuesday,NORMAL
+TXN2196,Emma Thompson,ATM Withdrawal,30561.88,Completed,2024-12-01 00:00:00,Sunday,NORMAL
+TXN2197,Elena Rostova,Cash Deposit,159882.24,Completed,2024-05-08 00:00:00,Wednesday,NORMAL
+TXN2198,Noah Wilson,POS Payment,196749.85,Reversed,2025-01-21 00:00:00,Tuesday,NORMAL
+TXN2199,Liam Anderson,Bank Transfer,217427.11,Completed,2024-06-27 00:00:00,Thursday,NORMAL
+TXN2200,Summit Energy Ltd,Wire Transfer,246007.43,Completed,2025-01-14 00:00:00,Tuesday,HIGH_RISK
+TXN2201,Olivia Carter,POS Payment,216615.31,Completed,2024-10-13 00:00:00,Sunday,NORMAL
+TXN2202,Bluewave Solutions,Bank Transfer,126761.191,Completed,2024-11-14 00:00:00,Thursday,NORMAL
+TXN2203,Isabella Garcia,Wire Transfer,119074.59,Pending,2024-12-31 00:00:00,Tuesday,HIGH_RISK
+TXN2204,Mason Lee,Wire Transfer,55406.9,Completed,2025-03-16 00:00:00,Sunday,HIGH_RISK
+TXN2205,Isabella Garcia,ATM Withdrawal,126761.191,Completed,2024-12-14 00:00:00,Saturday,NORMAL
+TXN2206,Emma Thompson,Online Payment,122579.96,Completed,2024-05-20 00:00:00,Monday,NORMAL
+TXN2207,Elena Rostova,ATM Withdrawal,16443.92,Completed,2025-03-03 00:00:00,Monday,NORMAL
+TXN2208,Mason Lee,Bank Transfer,95241.58,Completed,2024-09-10 00:00:00,Tuesday,NORMAL
+TXN2209,James Robinson,Bank Transfer,24817.14,Completed,2025-03-14 00:00:00,Friday,NORMAL
+TXN2210,Horizon Healthcare,Cash Deposit,107531.73,Pending,2024-11-10 00:00:00,Sunday,NORMAL
+TXN2211,Noah Wilson,Online Payment,182409.89,Completed,2024-09-20 00:00:00,Friday,NORMAL
+TXN2212,Olivia Carter,ATM Withdrawal,171713.09,Reversed,2024-05-29 00:00:00,Wednesday,NORMAL
+TXN2213,Elena Rostova,Wire Transfer,186153.63,Completed,2024-06-18 00:00:00,Tuesday,HIGH_RISK
+TXN2214,Horizon Healthcare,Wire Transfer,140407.56,Completed,2024-06-14 00:00:00,Friday,HIGH_RISK
+TXN2215,Pioneer Imports,ATM Withdrawal,235283.94,Failed,2024-05-09 00:00:00,Thursday,NORMAL
+TXN2216,Vertex Logistics,Bank Transfer,25922.55,Completed,2024-07-01 00:00:00,Monday,NORMAL
+TXN2217,Silverline Technologies,POS Payment,87544.75,Pending,2024-06-10 00:00:00,Monday,NORMAL
+TXN2218,Olivia Carter,Bank Transfer,107292.37,Completed,2025-02-25 00:00:00,Tuesday,NORMAL
+TXN2219,Summit Energy Ltd,Cash Deposit,6587.8,Completed,2025-04-03 00:00:00,Thursday,NORMAL
+TXN2220,Olivia Carter,Wire Transfer,175682.13,Completed,2024-10-03 00:00:00,Thursday,HIGH_RISK
+TXN2221,Crescent Retail Group,Wire Transfer,35834.29,Completed,2024-05-18 00:00:00,Saturday,NORMAL
+TXN2222,Sophia Bennett,Cash Deposit,7688.51,Completed,2024-08-01 00:00:00,Thursday,NORMAL
+TXN2223,Emma Thompson,Online Payment,39373.38,Completed,2024-09-26 00:00:00,Thursday,NORMAL
+TXN2224,Mason Lee,Bank Transfer,13175.89,Completed,2025-02-23 00:00:00,Sunday,NORMAL
+TXN2225,David Miller,Cash Deposit,110792.17,Completed,2025-02-17 00:00:00,Monday,NORMAL
+TXN2226,James Robinson,Online Payment,188741.91,Completed,2024-11-19 00:00:00,Tuesday,NORMAL
+TXN2227,Northstar Trading LLC,ATM Withdrawal,148293.73,Completed,2024-09-17 00:00:00,Tuesday,NORMAL
+TXN2228,David Miller,POS Payment,126761.191,Completed,2024-09-14 00:00:00,Saturday,NORMAL
+TXN2229,Liam Anderson,POS Payment,72379.55,Pending,2024-12-23 00:00:00,Monday,NORMAL
+TXN2230,Pioneer Imports,POS Payment,133157.27,Completed,2025-01-24 00:00:00,Friday,NORMAL
+TXN2231,Crescent Retail Group,Wire Transfer,185516.78,Completed,2024-12-04 00:00:00,Wednesday,HIGH_RISK
+TXN2232,Elena Rostova,ATM Withdrawal,143360.59,Completed,2024-11-12 00:00:00,Tuesday,NORMAL
+TXN2233,Vertex Logistics,Wire Transfer,241550.77,Completed,2025-02-23 00:00:00,Sunday,HIGH_RISK
+TXN2234,James Robinson,Cash Deposit,22055.27,Failed,2024-08-15 00:00:00,Thursday,NORMAL
+TXN2235,Pioneer Imports,Bank Transfer,19684.81,Completed,2024-10-03 00:00:00,Thursday,NORMAL
+TXN2236,Bluewave Solutions,ATM Withdrawal,19117.93,Pending,2025-01-09 00:00:00,Thursday,NORMAL
+TXN2237,Isabella Garcia,POS Payment,87360.08,Failed,2025-03-09 00:00:00,Sunday,NORMAL
+TXN2238,Sophia Bennett,POS Payment,64010.66,Completed,2024-06-30 00:00:00,Sunday,NORMAL
+TXN2239,Elena Rostova,POS Payment,156996.49,Reversed,2025-01-26 00:00:00,Sunday,NORMAL
+TXN2240,Mason Lee,Online Payment,220514.99,Completed,2025-02-26 00:00:00,Wednesday,NORMAL
+TXN2241,Noah Wilson,Cash Deposit,109954.71,Completed,2025-03-02 00:00:00,Sunday,NORMAL
+TXN2242,Vertex Logistics,ATM Withdrawal,88001.76,Completed,2024-12-05 00:00:00,Thursday,NORMAL
+TXN2243,James Robinson,Wire Transfer,207928.37,Completed,2024-05-29 00:00:00,Wednesday,HIGH_RISK
+TXN2244,Summit Energy Ltd,Bank Transfer,115691.35,Completed,2024-05-04 00:00:00,Saturday,NORMAL
+TXN2245,James Robinson,Bank Transfer,80398.65,Completed,2024-06-29 00:00:00,Saturday,NORMAL
+TXN2246,David Miller,Online Payment,224784.23,Completed,2024-05-26 00:00:00,Sunday,NORMAL
+TXN2247,Isabella Garcia,Cash Deposit,61954.74,Completed,2024-11-23 00:00:00,Saturday,NORMAL
+TXN2248,Isabella Garcia,Bank Transfer,90990.39,Completed,2024-10-28 00:00:00,Monday,NORMAL
+TXN2249,Pioneer Imports,ATM Withdrawal,13115.07,Completed,2024-10-01 00:00:00,Tuesday,NORMAL
+TXN2250,Elena Rostova,ATM Withdrawal,169602.88,Completed,2025-03-15 00:00:00,Saturday,NORMAL
+TXN2251,Summit Energy Ltd,POS Payment,145695.31,Completed,2024-10-09 00:00:00,Wednesday,NORMAL
+TXN2252,Vertex Logistics,Cash Deposit,98004.7,Completed,2024-05-26 00:00:00,Sunday,NORMAL
+TXN2253,Vertex Logistics,Bank Transfer,197920.7,Completed,2025-03-22 00:00:00,Saturday,NORMAL
+TXN2254,Isabella Garcia,Wire Transfer,105866.01,Completed,2024-10-15 00:00:00,Tuesday,HIGH_RISK
+TXN2255,Vertex Logistics,POS Payment,85449.54,Reversed,2024-07-20 00:00:00,Saturday,NORMAL
+TXN2256,Bluewave Solutions,POS Payment,73965.63,Completed,2024-12-28 00:00:00,Saturday,NORMAL
+TXN2257,Horizon Healthcare,Cash Deposit,9460.93,Failed,2025-02-23 00:00:00,Sunday,NORMAL
+TXN2258,Sophia Bennett,Bank Transfer,40582.75,Completed,2025-02-26 00:00:00,Wednesday,NORMAL
+TXN2259,Apex Manufacturing Ltd,Cash Deposit,102729.38,Completed,2024-08-12 00:00:00,Monday,NORMAL
+TXN2260,James Robinson,Bank Transfer,187140.42,Completed,2025-01-11 00:00:00,Saturday,NORMAL
+TXN2261,Bluewave Solutions,ATM Withdrawal,196097.95,Reversed,2024-07-21 00:00:00,Sunday,NORMAL
+TXN2262,Crescent Retail Group,Cash Deposit,246110.34,Failed,2024-09-04 00:00:00,Wednesday,NORMAL
+TXN2263,Emma Thompson,Bank Transfer,241567.88,Completed,2025-02-16 00:00:00,Sunday,NORMAL
+TXN2264,Sophia Bennett,ATM Withdrawal,120160.65,Completed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2265,Isabella Garcia,Wire Transfer,190785.13,Completed,2024-12-31 00:00:00,Tuesday,HIGH_RISK
+TXN2266,Sophia Bennett,Online Payment,227628.48,Completed,2024-10-08 00:00:00,Tuesday,NORMAL
+TXN2267,Global Tech Corp,Online Payment,125514.23,Completed,2024-05-24 00:00:00,Friday,NORMAL
+TXN2268,Crescent Retail Group,POS Payment,232708.21,Completed,2025-03-11 00:00:00,Tuesday,NORMAL
+TXN2269,Noah Wilson,POS Payment,71737.68,Completed,2025-04-04 00:00:00,Friday,NORMAL
+TXN2270,Sophia Bennett,Cash Deposit,153846.68,Completed,2024-04-22 00:00:00,Monday,NORMAL
+TXN2271,Olivia Carter,POS Payment,137212.34,Pending,2025-01-08 00:00:00,Wednesday,NORMAL
+TXN2272,Pioneer Imports,Wire Transfer,59429.12,Pending,2024-08-13 00:00:00,Tuesday,HIGH_RISK
+TXN2273,Pioneer Imports,Cash Deposit,114291.98,Pending,2024-12-24 00:00:00,Tuesday,NORMAL
+TXN2274,Summit Energy Ltd,Bank Transfer,128856.05,Completed,2024-06-25 00:00:00,Tuesday,NORMAL
+TXN2275,Vertex Logistics,Online Payment,88220.19,Completed,2024-07-17 00:00:00,Wednesday,NORMAL
+TXN2276,Elena Rostova,Bank Transfer,16943.14,Reversed,2024-12-28 00:00:00,Saturday,NORMAL
+TXN2277,Isabella Garcia,Bank Transfer,126761.191,Completed,2024-10-28 00:00:00,Monday,NORMAL
+TXN2278,Crescent Retail Group,ATM Withdrawal,126761.191,Pending,2024-08-14 00:00:00,Wednesday,NORMAL
+TXN2279,Northstar Trading LLC,Bank Transfer,126761.191,Pending,2025-01-17 00:00:00,Friday,NORMAL
+TXN2280,Noah Wilson,Cash Deposit,194791.17,Completed,2025-04-04 00:00:00,Friday,NORMAL
+TXN2281,Silverline Technologies,Cash Deposit,33734.77,Completed,2024-12-03 00:00:00,Tuesday,NORMAL
+TXN2282,David Miller,ATM Withdrawal,197782.53,Completed,2024-09-21 00:00:00,Saturday,NORMAL
+TXN2283,Vertex Logistics,Bank Transfer,203856.14,Completed,2024-05-01 00:00:00,Wednesday,NORMAL
+TXN2284,Liam Anderson,ATM Withdrawal,195215.87,Completed,2024-09-29 00:00:00,Sunday,NORMAL
+TXN2285,Olivia Carter,Wire Transfer,109251.92,Pending,2024-11-24 00:00:00,Sunday,HIGH_RISK
+TXN2286,Emma Thompson,ATM Withdrawal,124063.4,Reversed,2025-01-03 00:00:00,Friday,NORMAL
+TXN2287,Olivia Carter,Wire Transfer,19754.78,Pending,2024-07-14 00:00:00,Sunday,NORMAL
+TXN2288,Horizon Healthcare,ATM Withdrawal,20040.23,Completed,2024-09-16 00:00:00,Monday,NORMAL
+TXN2289,James Robinson,Bank Transfer,41682.03,Completed,2024-11-27 00:00:00,Wednesday,NORMAL
+TXN2290,David Miller,Cash Deposit,88156.01,Failed,2024-08-31 00:00:00,Saturday,NORMAL
+TXN2291,David Miller,Wire Transfer,101567.4,Completed,2025-03-26 00:00:00,Wednesday,HIGH_RISK
+TXN2292,Apex Manufacturing Ltd,Wire Transfer,151903.04,Completed,2024-04-30 00:00:00,Tuesday,HIGH_RISK
+TXN2293,Sophia Bennett,Wire Transfer,161299.59,Completed,2025-01-28 00:00:00,Tuesday,HIGH_RISK
+TXN2294,,Bank Transfer,112494.39,Completed,2024-11-26 00:00:00,Tuesday,NORMAL
+TXN2295,Elena Rostova,Bank Transfer,91753.31,Completed,2024-09-02 00:00:00,Monday,NORMAL
+TXN2296,Bluewave Solutions,Wire Transfer,46532.36,Completed,2025-01-25 00:00:00,Saturday,NORMAL
+TXN2297,Northstar Trading LLC,ATM Withdrawal,176016.85,Pending,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2298,Vertex Logistics,Cash Deposit,122812.77,Failed,2024-05-20 00:00:00,Monday,NORMAL
+TXN2299,James Robinson,POS Payment,111291.67,Failed,2025-03-28 00:00:00,Friday,NORMAL
+TXN2300,Noah Wilson,Cash Deposit,16258.15,Completed,2024-09-13 00:00:00,Friday,NORMAL
+TXN2301,Apex Manufacturing Ltd,Cash Deposit,175062.31,Completed,2024-10-15 00:00:00,Tuesday,NORMAL
+TXN2302,Isabella Garcia,POS Payment,50265.07,Completed,2024-12-21 00:00:00,Saturday,NORMAL
+TXN2303,Global Tech Corp,ATM Withdrawal,92243.57,Completed,2025-01-20 00:00:00,Monday,NORMAL
+TXN2304,Sophia Bennett,Bank Transfer,16460.38,Failed,2024-12-14 00:00:00,Saturday,NORMAL
+TXN2305,Isabella Garcia,Online Payment,205839.27,Pending,2024-09-22 00:00:00,Sunday,NORMAL
+TXN2306,Elena Rostova,Online Payment,129352.07,Completed,2025-01-20 00:00:00,Monday,NORMAL
+TXN2307,Mason Lee,POS Payment,32280.01,Pending,2024-05-11 00:00:00,Saturday,NORMAL
+TXN2308,Northstar Trading LLC,Bank Transfer,41185.15,Completed,2025-04-11 00:00:00,Friday,NORMAL
+TXN2309,Bluewave Solutions,ATM Withdrawal,129736.48,Failed,2024-05-23 00:00:00,Thursday,NORMAL
+TXN2310,Olivia Carter,POS Payment,137721.58,Completed,2024-09-15 00:00:00,Sunday,NORMAL
+TXN2311,Summit Energy Ltd,Bank Transfer,160255.83,Completed,2025-02-04 00:00:00,Tuesday,NORMAL
+TXN2312,Sophia Bennett,POS Payment,180165.18,Completed,2025-01-26 00:00:00,Sunday,NORMAL
+TXN2313,David Miller,Wire Transfer,237138,Completed,2024-08-26 00:00:00,Monday,HIGH_RISK
+TXN2314,Liam Anderson,Bank Transfer,159756.82,Completed,2025-02-28 00:00:00,Friday,NORMAL
+TXN2315,Horizon Healthcare,ATM Withdrawal,75540.98,Completed,2025-03-29 00:00:00,Saturday,NORMAL
+TXN2316,Emma Thompson,ATM Withdrawal,172161.18,Completed,2024-11-11 00:00:00,Monday,NORMAL
+TXN2317,Silverline Technologies,Online Payment,151674.9,Completed,2024-09-23 00:00:00,Monday,NORMAL
+TXN2318,Crescent Retail Group,Online Payment,92650.79,Completed,2024-09-23 00:00:00,Monday,NORMAL
+TXN2319,Bluewave Solutions,Online Payment,112412.76,Completed,2024-05-08 00:00:00,Wednesday,NORMAL
+TXN2320,Vertex Logistics,Online Payment,104548.23,Pending,2024-07-03 00:00:00,Wednesday,NORMAL
+TXN2321,Noah Wilson,Bank Transfer,47478.78,Pending,2025-01-01 00:00:00,Wednesday,NORMAL
+TXN2322,James Robinson,Online Payment,124355.13,Failed,2024-10-31 00:00:00,Thursday,NORMAL
+TXN2323,Isabella Garcia,Online Payment,53805.73,Reversed,2024-05-08 00:00:00,Wednesday,NORMAL
+TXN2324,Vertex Logistics,Online Payment,210716.34,Completed,2024-09-06 00:00:00,Friday,NORMAL
+TXN2325,Horizon Healthcare,Wire Transfer,107746.17,Pending,2024-10-17 00:00:00,Thursday,HIGH_RISK
+TXN2326,Emma Thompson,ATM Withdrawal,12813.14,Completed,2024-10-15 00:00:00,Tuesday,NORMAL
+TXN2327,Horizon Healthcare,ATM Withdrawal,126076.28,Completed,2024-09-03 00:00:00,Tuesday,NORMAL
+TXN2328,Summit Energy Ltd,Cash Deposit,32187.63,Completed,2024-10-21 00:00:00,Monday,NORMAL
+TXN2329,Noah Wilson,Bank Transfer,188747.42,Failed,2024-12-29 00:00:00,Sunday,NORMAL
+TXN2330,Emma Thompson,Bank Transfer,9752.52,Completed,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2331,Isabella Garcia,Online Payment,223285.59,Completed,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2332,Noah Wilson,POS Payment,154134.71,Completed,2025-02-10 00:00:00,Monday,NORMAL
+TXN2333,Noah Wilson,Bank Transfer,133096.65,Pending,2024-09-13 00:00:00,Friday,NORMAL
+TXN2334,Silverline Technologies,Wire Transfer,168459.75,Completed,2025-02-05 00:00:00,Wednesday,HIGH_RISK
+TXN2335,Vertex Logistics,Cash Deposit,157324.39,Failed,2024-08-26 00:00:00,Monday,NORMAL
+TXN2336,Mason Lee,Bank Transfer,12862.51,Completed,2025-01-06 00:00:00,Monday,NORMAL
+TXN2337,Summit Energy Ltd,Online Payment,126761.191,Completed,2025-04-06 00:00:00,Sunday,NORMAL
+TXN2338,Northstar Trading LLC,POS Payment,78440.28,Completed,2025-04-01 00:00:00,Tuesday,NORMAL
+TXN2339,Liam Anderson,Online Payment,152879.23,Completed,2024-05-14 00:00:00,Tuesday,NORMAL
+TXN2340,Sophia Bennett,Bank Transfer,81279.26,Completed,2025-01-07 00:00:00,Tuesday,NORMAL
+TXN2341,Emma Thompson,ATM Withdrawal,114929.39,Reversed,2025-01-17 00:00:00,Friday,NORMAL
+TXN2342,Crescent Retail Group,Cash Deposit,180238.12,Pending,2025-04-02 00:00:00,Wednesday,NORMAL
+TXN2343,Olivia Carter,Bank Transfer,239335.42,Completed,2024-09-12 00:00:00,Thursday,NORMAL
+TXN2344,Bluewave Solutions,ATM Withdrawal,176232.61,Pending,2024-12-19 00:00:00,Thursday,NORMAL
+TXN2345,Noah Wilson,Online Payment,233426.75,Completed,2024-08-31 00:00:00,Saturday,NORMAL
+TXN2346,Vertex Logistics,Wire Transfer,135809.14,Completed,2024-11-01 00:00:00,Friday,HIGH_RISK
+TXN2347,Crescent Retail Group,POS Payment,71925.39,Completed,2024-10-07 00:00:00,Monday,NORMAL
+TXN2348,James Robinson,Cash Deposit,119782.84,Completed,2025-01-13 00:00:00,Monday,NORMAL
+TXN2349,Olivia Carter,Bank Transfer,34339.81,Completed,2025-02-07 00:00:00,Friday,NORMAL
+TXN2350,Bluewave Solutions,POS Payment,226298.42,Completed,2024-08-10 00:00:00,Saturday,NORMAL
+TXN2351,David Miller,Wire Transfer,179346.58,Completed,2024-06-22 00:00:00,Saturday,HIGH_RISK
+TXN2352,Global Tech Corp,Bank Transfer,39506.32,Reversed,2024-12-12 00:00:00,Thursday,NORMAL
+TXN2353,Silverline Technologies,Cash Deposit,240979.41,Completed,2025-03-09 00:00:00,Sunday,NORMAL
+TXN2354,David Miller,Wire Transfer,58074.24,Completed,2024-05-02 00:00:00,Thursday,HIGH_RISK
+TXN2355,Apex Manufacturing Ltd,Online Payment,43967.78,Failed,2024-11-02 00:00:00,Saturday,NORMAL
+TXN2356,Silverline Technologies,POS Payment,240533.79,Failed,2024-05-02 00:00:00,Thursday,NORMAL
+TXN2357,Global Tech Corp,ATM Withdrawal,26847.49,Completed,2024-09-05 00:00:00,Thursday,NORMAL
+TXN2358,James Robinson,Cash Deposit,123490.76,Completed,2024-12-27 00:00:00,Friday,NORMAL
+TXN2359,James Robinson,ATM Withdrawal,28183.87,Completed,2024-12-03 00:00:00,Tuesday,NORMAL
+TXN2360,Olivia Carter,Cash Deposit,184161.06,Completed,2025-01-28 00:00:00,Tuesday,NORMAL
+TXN2361,,POS Payment,159690.48,Completed,2024-11-17 00:00:00,Sunday,NORMAL
+TXN2362,Isabella Garcia,ATM Withdrawal,167322.23,Completed,2024-06-23 00:00:00,Sunday,NORMAL
+TXN2363,Silverline Technologies,ATM Withdrawal,1732.36,Failed,2024-11-27 00:00:00,Wednesday,NORMAL
+TXN2364,,ATM Withdrawal,126761.191,Completed,2025-03-13 00:00:00,Thursday,NORMAL
+TXN2365,Crescent Retail Group,Cash Deposit,166954.83,Completed,2024-07-03 00:00:00,Wednesday,NORMAL
+TXN2366,Emma Thompson,Cash Deposit,223782.21,Completed,2024-09-19 00:00:00,Thursday,NORMAL
+TXN2367,Northstar Trading LLC,Cash Deposit,73777.02,Failed,2024-08-03 00:00:00,Saturday,NORMAL
+TXN2368,Sophia Bennett,Online Payment,186940.02,Completed,2024-11-11 00:00:00,Monday,NORMAL
+TXN2369,Horizon Healthcare,Online Payment,200503.7,Pending,2024-08-17 00:00:00,Saturday,NORMAL
+TXN2370,Summit Energy Ltd,Wire Transfer,132055.08,Completed,2025-01-26 00:00:00,Sunday,HIGH_RISK
+TXN2371,Northstar Trading LLC,Wire Transfer,225724.47,Pending,2025-01-12 00:00:00,Sunday,HIGH_RISK
+TXN2372,Sophia Bennett,POS Payment,130097.38,Completed,2024-07-27 00:00:00,Saturday,NORMAL
+TXN2373,Mason Lee,Online Payment,127606.08,Completed,2024-12-01 00:00:00,Sunday,NORMAL
+TXN2374,Sophia Bennett,Bank Transfer,140988.7,Completed,2025-03-23 00:00:00,Sunday,NORMAL
+TXN2375,Vertex Logistics,Cash Deposit,126761.191,Completed,2024-08-02 00:00:00,Friday,NORMAL
+TXN2376,Mason Lee,Wire Transfer,126761.191,Completed,2024-05-13 00:00:00,Monday,HIGH_RISK
+TXN2377,Elena Rostova,Online Payment,102231.51,Completed,2025-03-07 00:00:00,Friday,NORMAL
+TXN2378,Pioneer Imports,ATM Withdrawal,95635.34,Reversed,2024-10-23 00:00:00,Wednesday,NORMAL
+TXN2379,Emma Thompson,Wire Transfer,165456.59,Completed,2025-03-13 00:00:00,Thursday,HIGH_RISK
+TXN2380,Crescent Retail Group,Wire Transfer,134326.19,Completed,2024-08-05 00:00:00,Monday,HIGH_RISK
+TXN2381,Global Tech Corp,Wire Transfer,115764.4,Reversed,2024-11-16 00:00:00,Saturday,HIGH_RISK
+TXN2382,Horizon Healthcare,Online Payment,61896.82,Pending,2024-09-01 00:00:00,Sunday,NORMAL
+TXN2383,Liam Anderson,Cash Deposit,8078.52,Pending,2025-02-21 00:00:00,Friday,NORMAL
+TXN2384,Global Tech Corp,POS Payment,126761.191,Completed,2025-02-13 00:00:00,Thursday,NORMAL
+TXN2385,David Miller,POS Payment,100581.28,Pending,2024-08-02 00:00:00,Friday,NORMAL
+TXN2386,David Miller,POS Payment,72333.63,Completed,2025-02-01 00:00:00,Saturday,NORMAL
+TXN2387,Noah Wilson,Bank Transfer,168141.16,Completed,2024-09-14 00:00:00,Saturday,NORMAL
+TXN2388,Sophia Bennett,Cash Deposit,103404.71,Completed,2025-01-23 00:00:00,Thursday,NORMAL
+TXN2389,Mason Lee,Cash Deposit,156507.63,Failed,2024-12-22 00:00:00,Sunday,NORMAL
+TXN2390,David Miller,ATM Withdrawal,167843.85,Failed,2024-09-23 00:00:00,Monday,NORMAL
+TXN2391,Pioneer Imports,Online Payment,94130.64,Completed,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2392,Bluewave Solutions,POS Payment,176901.51,Completed,2024-05-12 00:00:00,Sunday,NORMAL
+TXN2393,Horizon Healthcare,Online Payment,139332.76,Reversed,2024-08-15 00:00:00,Thursday,NORMAL
+TXN2394,Olivia Carter,POS Payment,19790.63,Completed,2024-10-19 00:00:00,Saturday,NORMAL
+TXN2395,Elena Rostova,Bank Transfer,47640.64,Pending,2025-03-23 00:00:00,Sunday,NORMAL
+TXN2396,Summit Energy Ltd,Bank Transfer,18219.26,Completed,2025-02-07 00:00:00,Friday,NORMAL
+TXN2397,Horizon Healthcare,POS Payment,217371.73,Completed,2024-04-20 00:00:00,Saturday,NORMAL
+TXN2398,Liam Anderson,POS Payment,29351.12,Reversed,2024-12-14 00:00:00,Saturday,NORMAL
+TXN2399,Bluewave Solutions,Cash Deposit,51148.17,Completed,2025-01-20 00:00:00,Monday,NORMAL
+TXN2400,Noah Wilson,ATM Withdrawal,133424.19,Completed,2024-08-24 00:00:00,Saturday,NORMAL
+TXN2401,Crescent Retail Group,Bank Transfer,116514.37,Failed,2024-12-09 00:00:00,Monday,NORMAL
+TXN2402,Noah Wilson,POS Payment,103497.19,Completed,2024-08-04 00:00:00,Sunday,NORMAL
+TXN2403,Sophia Bennett,Wire Transfer,233691.19,Completed,2024-11-12 00:00:00,Tuesday,HIGH_RISK
+TXN2404,Vertex Logistics,POS Payment,57523.91,Completed,2024-08-16 00:00:00,Friday,NORMAL
+TXN2405,Silverline Technologies,Bank Transfer,171219.53,Completed,2024-12-19 00:00:00,Thursday,NORMAL
+TXN2406,Silverline Technologies,Online Payment,198749,Completed,2025-01-17 00:00:00,Friday,NORMAL
+TXN2407,Silverline Technologies,POS Payment,135545.66,Failed,2024-05-13 00:00:00,Monday,NORMAL
+TXN2408,Isabella Garcia,Wire Transfer,18605.74,Pending,2024-05-07 00:00:00,Tuesday,NORMAL
+TXN2409,Global Tech Corp,Online Payment,126761.191,Completed,2024-06-29 00:00:00,Saturday,NORMAL
+TXN2410,Global Tech Corp,POS Payment,93315.84,Completed,2025-03-20 00:00:00,Thursday,NORMAL
+TXN2411,Summit Energy Ltd,Online Payment,3957.55,Completed,2024-11-09 00:00:00,Saturday,NORMAL
+TXN2412,Global Tech Corp,Wire Transfer,68703.32,Completed,2024-04-21 00:00:00,Sunday,HIGH_RISK
+TXN2413,Isabella Garcia,Cash Deposit,201546.77,Completed,2024-06-06 00:00:00,Thursday,NORMAL
+TXN2414,Northstar Trading LLC,Bank Transfer,48003.22,Completed,2024-10-11 00:00:00,Friday,NORMAL
+TXN2415,Olivia Carter,Online Payment,239825.47,Completed,2024-08-15 00:00:00,Thursday,NORMAL
+TXN2416,Bluewave Solutions,ATM Withdrawal,211970.58,Completed,2025-03-11 00:00:00,Tuesday,NORMAL
+TXN2417,David Miller,Wire Transfer,94307.96,Completed,2025-03-05 00:00:00,Wednesday,HIGH_RISK
+TXN2418,Global Tech Corp,Cash Deposit,124977.1,Completed,2024-09-29 00:00:00,Sunday,NORMAL
+TXN2419,Mason Lee,Wire Transfer,229790.08,Failed,2025-04-02 00:00:00,Wednesday,HIGH_RISK
+TXN2420,Mason Lee,Online Payment,231041.71,Completed,2024-09-03 00:00:00,Tuesday,NORMAL
+TXN2421,Horizon Healthcare,Bank Transfer,44859.14,Completed,2024-04-21 00:00:00,Sunday,NORMAL
+TXN2422,Liam Anderson,Bank Transfer,205177.17,Completed,2024-05-22 00:00:00,Wednesday,NORMAL
+TXN2423,Vertex Logistics,POS Payment,141684.81,Completed,2025-03-25 00:00:00,Tuesday,NORMAL
+TXN2424,Horizon Healthcare,ATM Withdrawal,184942.8,Completed,2025-03-31 00:00:00,Monday,NORMAL
+TXN2425,Elena Rostova,Bank Transfer,86481.23,Pending,2024-08-09 00:00:00,Friday,NORMAL
+TXN2426,Elena Rostova,ATM Withdrawal,153475.96,Completed,2024-09-27 00:00:00,Friday,NORMAL
+TXN2427,Global Tech Corp,Cash Deposit,248146.65,Completed,2024-10-12 00:00:00,Saturday,NORMAL
+TXN2428,Horizon Healthcare,Online Payment,169931.72,Completed,2024-05-26 00:00:00,Sunday,NORMAL
+TXN2429,Summit Energy Ltd,ATM Withdrawal,178284.31,Pending,2024-06-30 00:00:00,Sunday,NORMAL
+TXN2430,Emma Thompson,Cash Deposit,38590.37,Pending,2024-10-14 00:00:00,Monday,NORMAL
+TXN2431,Northstar Trading LLC,Wire Transfer,77084.16,Completed,2024-08-29 00:00:00,Thursday,HIGH_RISK
+TXN2432,Northstar Trading LLC,POS Payment,107759.1,Completed,2024-12-31 00:00:00,Tuesday,NORMAL
+TXN2433,Pioneer Imports,Wire Transfer,88494.72,Completed,2025-02-13 00:00:00,Thursday,HIGH_RISK
+TXN2434,Noah Wilson,Online Payment,103467.17,Completed,2025-01-24 00:00:00,Friday,NORMAL
+TXN2435,Bluewave Solutions,Bank Transfer,171336.87,Completed,2024-08-28 00:00:00,Wednesday,NORMAL
+TXN2436,Vertex Logistics,ATM Withdrawal,15840.21,Completed,2024-11-14 00:00:00,Thursday,NORMAL
+TXN2437,Vertex Logistics,Online Payment,90297.2,Pending,2025-02-27 00:00:00,Thursday,NORMAL
+TXN2438,Silverline Technologies,Bank Transfer,114478.96,Completed,2024-04-16 00:00:00,Tuesday,NORMAL
+TXN2439,Emma Thompson,ATM Withdrawal,94987.99,Pending,2024-11-24 00:00:00,Sunday,NORMAL
+TXN2440,Noah Wilson,Online Payment,214880.63,Pending,2024-06-21 00:00:00,Friday,NORMAL
+TXN2441,Vertex Logistics,ATM Withdrawal,173830.69,Completed,2024-07-12 00:00:00,Friday,NORMAL
+TXN2442,Emma Thompson,ATM Withdrawal,173747.07,Completed,2025-02-01 00:00:00,Saturday,NORMAL
+TXN2443,Bluewave Solutions,ATM Withdrawal,204128.22,Completed,2024-06-10 00:00:00,Monday,NORMAL
+TXN2444,Mason Lee,POS Payment,136418.63,Completed,2025-01-19 00:00:00,Sunday,NORMAL
+TXN2445,Global Tech Corp,Cash Deposit,177099.05,Completed,2024-09-09 00:00:00,Monday,NORMAL
+TXN2446,Elena Rostova,Online Payment,34816.3,Completed,2024-08-20 00:00:00,Tuesday,NORMAL
+TXN2447,Sophia Bennett,Cash Deposit,94263.28,Completed,2025-02-13 00:00:00,Thursday,NORMAL
+TXN2448,Silverline Technologies,Bank Transfer,126665.5,Completed,2025-04-02 00:00:00,Wednesday,NORMAL
+TXN2449,Pioneer Imports,Bank Transfer,242107.8,Completed,2025-01-12 00:00:00,Sunday,NORMAL
+TXN2450,Summit Energy Ltd,Cash Deposit,27364.62,Failed,2025-03-19 00:00:00,Wednesday,NORMAL
+TXN2451,Crescent Retail Group,POS Payment,11098.07,Completed,2025-03-25 00:00:00,Tuesday,NORMAL
+TXN2452,Emma Thompson,ATM Withdrawal,126761.191,Reversed,2024-08-23 00:00:00,Friday,NORMAL
+TXN2453,Bluewave Solutions,Bank Transfer,139509.4,Pending,2024-08-04 00:00:00,Sunday,NORMAL
+TXN2454,James Robinson,ATM Withdrawal,193091.25,Completed,2024-12-25 00:00:00,Wednesday,NORMAL
+TXN2455,Sophia Bennett,ATM Withdrawal,120705.7,Reversed,2024-05-26 00:00:00,Sunday,NORMAL
+TXN2456,Northstar Trading LLC,Cash Deposit,77989.79,Completed,2024-07-27 00:00:00,Saturday,NORMAL
+TXN2457,Isabella Garcia,Online Payment,24428.32,Completed,2024-11-30 00:00:00,Saturday,NORMAL
+TXN2458,Noah Wilson,Wire Transfer,202551.23,Completed,2024-10-05 00:00:00,Saturday,HIGH_RISK
+TXN2459,Northstar Trading LLC,Cash Deposit,232482.36,Pending,2025-01-02 00:00:00,Thursday,NORMAL
+TXN2460,Apex Manufacturing Ltd,Bank Transfer,139973.24,Completed,2024-08-09 00:00:00,Friday,NORMAL
+TXN2461,Emma Thompson,Cash Deposit,160128.71,Completed,2024-04-27 00:00:00,Saturday,NORMAL
+TXN2462,Summit Energy Ltd,POS Payment,126761.191,Completed,2024-07-31 00:00:00,Wednesday,NORMAL
+TXN2463,Liam Anderson,ATM Withdrawal,126761.191,Pending,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2464,Horizon Healthcare,POS Payment,49288.64,Completed,2025-03-22 00:00:00,Saturday,NORMAL
+TXN2465,Silverline Technologies,Bank Transfer,78368.19,Reversed,2024-10-30 00:00:00,Wednesday,NORMAL
+TXN2466,Mason Lee,Wire Transfer,211383.31,Completed,2025-03-23 00:00:00,Sunday,HIGH_RISK
+TXN2467,Vertex Logistics,Bank Transfer,168035.72,Completed,2024-08-13 00:00:00,Tuesday,NORMAL
+TXN2468,Vertex Logistics,Wire Transfer,173366.8,Completed,2024-11-13 00:00:00,Wednesday,HIGH_RISK
+TXN2469,Summit Energy Ltd,POS Payment,105774.12,Completed,2025-01-13 00:00:00,Monday,NORMAL
+TXN2470,Apex Manufacturing Ltd,Bank Transfer,72226.47,Completed,2024-11-29 00:00:00,Friday,NORMAL
+TXN2471,Summit Energy Ltd,Wire Transfer,237961.69,Pending,2024-07-21 00:00:00,Sunday,HIGH_RISK
+TXN2472,Emma Thompson,Bank Transfer,123755.09,Completed,2024-11-11 00:00:00,Monday,NORMAL
+TXN2473,James Robinson,Online Payment,141360.31,Completed,2024-08-03 00:00:00,Saturday,NORMAL
+TXN2474,Vertex Logistics,Wire Transfer,134413.71,Completed,2024-12-03 00:00:00,Tuesday,HIGH_RISK
+TXN2475,Mason Lee,Cash Deposit,123840.95,Pending,2025-01-31 00:00:00,Friday,NORMAL
+TXN2476,Northstar Trading LLC,ATM Withdrawal,205825.12,Pending,2024-05-04 00:00:00,Saturday,NORMAL
+TXN2477,,Bank Transfer,106303.04,Completed,2025-03-13 00:00:00,Thursday,NORMAL
+TXN2478,Bluewave Solutions,ATM Withdrawal,8081.79,Failed,2024-05-27 00:00:00,Monday,NORMAL
+TXN2479,James Robinson,Wire Transfer,59255.59,Pending,2025-02-08 00:00:00,Saturday,HIGH_RISK
+TXN2480,Crescent Retail Group,Cash Deposit,107056.06,Completed,2024-07-27 00:00:00,Saturday,NORMAL
+TXN2481,Liam Anderson,Wire Transfer,133081.89,Completed,2024-07-08 00:00:00,Monday,HIGH_RISK
+TXN2482,Noah Wilson,Cash Deposit,143194.58,Completed,2025-01-01 00:00:00,Wednesday,NORMAL
+TXN2483,Northstar Trading LLC,POS Payment,196428.12,Reversed,2024-09-01 00:00:00,Sunday,NORMAL
+TXN2484,Sophia Bennett,Cash Deposit,62438.07,Pending,2024-08-17 00:00:00,Saturday,NORMAL
+TXN2485,Emma Thompson,Online Payment,158109.69,Completed,2024-10-22 00:00:00,Tuesday,NORMAL
+TXN2486,James Robinson,Wire Transfer,220034.27,Completed,2025-01-01 00:00:00,Wednesday,HIGH_RISK
+TXN2487,Olivia Carter,Cash Deposit,92283.57,Failed,2024-09-27 00:00:00,Friday,NORMAL
+TXN2488,Mason Lee,Wire Transfer,211795.65,Pending,2024-12-03 00:00:00,Tuesday,HIGH_RISK
+TXN2489,Crescent Retail Group,Wire Transfer,99444.02,Pending,2024-07-30 00:00:00,Tuesday,HIGH_RISK
+TXN2490,Silverline Technologies,ATM Withdrawal,70916.18,Completed,2024-06-18 00:00:00,Tuesday,NORMAL
+TXN2491,Mason Lee,Online Payment,223541.31,Pending,2024-05-06 00:00:00,Monday,NORMAL
+TXN2492,Northstar Trading LLC,Cash Deposit,114908.95,Pending,2024-07-02 00:00:00,Tuesday,NORMAL
+TXN2493,James Robinson,Online Payment,239508.99,Completed,2025-03-31 00:00:00,Monday,NORMAL
+TXN2494,Sophia Bennett,Cash Deposit,218608.98,Completed,2024-05-30 00:00:00,Thursday,NORMAL
+TXN2495,,ATM Withdrawal,166135.59,Completed,2024-05-09 00:00:00,Thursday,NORMAL
+TXN2496,Emma Thompson,Cash Deposit,174867.86,Completed,2025-03-14 00:00:00,Friday,NORMAL
+TXN2497,Elena Rostova,Cash Deposit,53374.96,Completed,2025-02-10 00:00:00,Monday,NORMAL
+TXN2498,Bluewave Solutions,Bank Transfer,2346.5,Completed,2024-06-13 00:00:00,Thursday,NORMAL
+TXN2499,Pioneer Imports,Cash Deposit,17730.31,Completed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2500,Northstar Trading LLC,ATM Withdrawal,74831.35,Completed,2024-06-20 00:00:00,Thursday,NORMAL
+TXN2501,Sophia Bennett,Wire Transfer,2143.47,Completed,2024-11-24 00:00:00,Sunday,NORMAL
+TXN2502,Crescent Retail Group,Cash Deposit,187073.5,Completed,2025-02-22 00:00:00,Saturday,NORMAL
+TXN2503,James Robinson,POS Payment,25138.77,Completed,2025-02-08 00:00:00,Saturday,NORMAL
+TXN2504,Emma Thompson,ATM Withdrawal,78643.05,Reversed,2024-09-01 00:00:00,Sunday,NORMAL
+TXN2505,Elena Rostova,POS Payment,150011.97,Completed,2025-04-01 00:00:00,Tuesday,NORMAL
+TXN2506,Global Tech Corp,Cash Deposit,51381.29,Failed,2024-07-18 00:00:00,Thursday,NORMAL
+TXN2507,Emma Thompson,ATM Withdrawal,195955.8,Completed,2024-08-13 00:00:00,Tuesday,NORMAL
+TXN2508,Silverline Technologies,Online Payment,124908.15,Completed,2025-01-08 00:00:00,Wednesday,NORMAL
+TXN2509,Global Tech Corp,ATM Withdrawal,33017.42,Failed,2025-01-29 00:00:00,Wednesday,NORMAL
+TXN2510,Pioneer Imports,ATM Withdrawal,43213.26,Completed,2024-05-20 00:00:00,Monday,NORMAL
+TXN2511,Global Tech Corp,Bank Transfer,126761.191,Completed,2024-05-13 00:00:00,Monday,NORMAL
+TXN2512,Emma Thompson,Bank Transfer,178164.45,Completed,2024-11-15 00:00:00,Friday,NORMAL
+TXN2513,Emma Thompson,Wire Transfer,134425.4,Completed,2024-05-25 00:00:00,Saturday,HIGH_RISK
+TXN2514,Vertex Logistics,Wire Transfer,50819.29,Completed,2025-01-12 00:00:00,Sunday,HIGH_RISK
+TXN2515,Noah Wilson,Online Payment,190811.95,Completed,2025-03-08 00:00:00,Saturday,NORMAL
+TXN2516,Elena Rostova,ATM Withdrawal,182496.35,Completed,2024-05-12 00:00:00,Sunday,NORMAL
+TXN2517,Bluewave Solutions,Wire Transfer,29018.75,Failed,2024-05-11 00:00:00,Saturday,NORMAL
+TXN2518,Vertex Logistics,Cash Deposit,185171.03,Pending,2025-04-10 00:00:00,Thursday,NORMAL
+TXN2519,Sophia Bennett,Cash Deposit,124115.82,Completed,2025-01-02 00:00:00,Thursday,NORMAL
+TXN2520,Olivia Carter,POS Payment,187450.35,Completed,2024-06-12 00:00:00,Wednesday,NORMAL
+TXN2521,Global Tech Corp,ATM Withdrawal,126761.191,Pending,2025-04-12 00:00:00,Saturday,NORMAL
+TXN2522,Mason Lee,Cash Deposit,113813.06,Completed,2024-12-24 00:00:00,Tuesday,NORMAL
+TXN2523,Mason Lee,POS Payment,63797.64,Completed,2025-01-31 00:00:00,Friday,NORMAL
+TXN2524,Northstar Trading LLC,POS Payment,667.06,Pending,2024-04-19 00:00:00,Friday,NORMAL
+TXN2525,Bluewave Solutions,Wire Transfer,95760.29,,2024-05-01 00:00:00,Wednesday,HIGH_RISK
+TXN2526,Horizon Healthcare,Cash Deposit,104856.84,Pending,2024-11-12 00:00:00,Tuesday,NORMAL
+TXN2527,Noah Wilson,ATM Withdrawal,142894.7,Pending,2025-03-23 00:00:00,Sunday,NORMAL
+TXN2528,David Miller,POS Payment,126761.191,Completed,2024-11-04 00:00:00,Monday,NORMAL
+TXN2529,Elena Rostova,Online Payment,193387.53,Pending,2024-05-27 00:00:00,Monday,NORMAL
+TXN2530,Horizon Healthcare,Online Payment,50187.77,Completed,2024-09-15 00:00:00,Sunday,NORMAL
+TXN2531,Summit Energy Ltd,POS Payment,147932.94,Completed,2024-07-22 00:00:00,Monday,NORMAL
+TXN2532,Horizon Healthcare,POS Payment,126761.191,Completed,2025-01-15 00:00:00,Wednesday,NORMAL
+TXN2533,Crescent Retail Group,Cash Deposit,219302.72,Pending,2024-04-13 00:00:00,Saturday,NORMAL
+TXN2534,Emma Thompson,Cash Deposit,26009.66,Pending,2024-08-12 00:00:00,Monday,NORMAL
+TXN2535,Pioneer Imports,Online Payment,243140.5,Reversed,2024-09-03 00:00:00,Tuesday,NORMAL
+TXN2536,Elena Rostova,Wire Transfer,224324.44,Failed,2025-04-06 00:00:00,Sunday,HIGH_RISK
+TXN2537,Crescent Retail Group,Online Payment,21248.48,Reversed,2024-06-20 00:00:00,Thursday,NORMAL
+TXN2538,Emma Thompson,Wire Transfer,15594.16,Completed,2024-06-18 00:00:00,Tuesday,NORMAL
+TXN2539,Bluewave Solutions,ATM Withdrawal,78769.35,Completed,2025-04-06 00:00:00,Sunday,NORMAL
+TXN2540,Noah Wilson,ATM Withdrawal,58421.97,Completed,2024-06-21 00:00:00,Friday,NORMAL
+TXN2541,Mason Lee,Wire Transfer,41114.64,Completed,2024-11-07 00:00:00,Thursday,NORMAL
+TXN2542,Northstar Trading LLC,Bank Transfer,192589.93,Completed,2024-12-06 00:00:00,Friday,NORMAL
+TXN2543,Olivia Carter,Wire Transfer,201904.04,Completed,2025-04-08 00:00:00,Tuesday,HIGH_RISK
+TXN2544,Summit Energy Ltd,Wire Transfer,214146.9,Completed,2025-04-12 00:00:00,Saturday,HIGH_RISK
+TXN2545,Bluewave Solutions,ATM Withdrawal,12261.43,Completed,2024-07-11 00:00:00,Thursday,NORMAL
+TXN2546,Global Tech Corp,Online Payment,138999.54,Pending,2024-05-31 00:00:00,Friday,NORMAL
+TXN2547,James Robinson,Wire Transfer,126761.191,Pending,2024-08-04 00:00:00,Sunday,HIGH_RISK
+TXN2548,Sophia Bennett,POS Payment,93075.63,Pending,2025-03-09 00:00:00,Sunday,NORMAL
+TXN2549,Elena Rostova,Bank Transfer,229359.21,Completed,2024-05-16 00:00:00,Thursday,NORMAL
+TXN2550,Liam Anderson,Cash Deposit,32219.67,Completed,2024-09-29 00:00:00,Sunday,NORMAL
+TXN2551,Northstar Trading LLC,Wire Transfer,12683.16,Failed,2024-11-20 00:00:00,Wednesday,NORMAL
+TXN2552,Emma Thompson,Online Payment,170811.15,Completed,2024-07-31 00:00:00,Wednesday,NORMAL
+TXN2553,Apex Manufacturing Ltd,ATM Withdrawal,126761.191,Completed,2025-02-24 00:00:00,Monday,NORMAL
+TXN2554,Summit Energy Ltd,POS Payment,124735.43,Completed,2024-12-14 00:00:00,Saturday,NORMAL
+TXN2555,David Miller,Wire Transfer,34330.57,Completed,2025-01-07 00:00:00,Tuesday,NORMAL
+TXN2556,Bluewave Solutions,Cash Deposit,126761.191,Reversed,2024-10-25 00:00:00,Friday,NORMAL
+TXN2557,Crescent Retail Group,Online Payment,121182.75,Completed,2024-12-26 00:00:00,Thursday,NORMAL
+TXN2558,Noah Wilson,Online Payment,6540.09,Completed,2024-04-28 00:00:00,Sunday,NORMAL
+TXN2559,Olivia Carter,Wire Transfer,117934.3,Pending,2025-02-06 00:00:00,Thursday,HIGH_RISK
+TXN2560,Bluewave Solutions,POS Payment,164224.68,Completed,2024-05-11 00:00:00,Saturday,NORMAL
+TXN2561,Bluewave Solutions,Bank Transfer,199352.74,Pending,2024-07-10 00:00:00,Wednesday,NORMAL
+TXN2562,Apex Manufacturing Ltd,POS Payment,201557.4,Completed,2025-02-09 00:00:00,Sunday,NORMAL
+TXN2563,Global Tech Corp,Cash Deposit,236890.99,Completed,2025-01-26 00:00:00,Sunday,NORMAL
+TXN2564,Liam Anderson,Online Payment,126761.191,Completed,2024-05-11 00:00:00,Saturday,NORMAL
+TXN2565,Bluewave Solutions,Bank Transfer,126761.191,Completed,2025-02-21 00:00:00,Friday,NORMAL
+TXN2566,Liam Anderson,POS Payment,44385.53,Completed,2024-09-25 00:00:00,Wednesday,NORMAL
+TXN2567,David Miller,Wire Transfer,176181.47,Completed,2024-06-08 00:00:00,Saturday,HIGH_RISK
+TXN2568,Isabella Garcia,ATM Withdrawal,93413.36,Reversed,2024-11-01 00:00:00,Friday,NORMAL
+TXN2569,Mason Lee,Wire Transfer,80667.74,Completed,2024-11-22 00:00:00,Friday,HIGH_RISK
+TXN2570,Silverline Technologies,Cash Deposit,176803.05,Completed,2025-02-21 00:00:00,Friday,NORMAL
+TXN2571,Crescent Retail Group,POS Payment,203618.2,Completed,2025-03-31 00:00:00,Monday,NORMAL
+TXN2572,Vertex Logistics,POS Payment,474.43,Completed,2025-01-31 00:00:00,Friday,NORMAL
+TXN2573,Emma Thompson,Bank Transfer,150607.11,Completed,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2574,Bluewave Solutions,Cash Deposit,234173.53,Completed,2024-05-22 00:00:00,Wednesday,NORMAL
+TXN2575,Bluewave Solutions,ATM Withdrawal,41992.66,Reversed,2024-05-28 00:00:00,Tuesday,NORMAL
+TXN2576,Noah Wilson,Online Payment,52440.83,Completed,2024-10-09 00:00:00,Wednesday,NORMAL
+TXN2577,Olivia Carter,Wire Transfer,12060.66,Pending,2024-11-13 00:00:00,Wednesday,NORMAL
+TXN2578,Apex Manufacturing Ltd,Online Payment,94693.68,Completed,2024-06-03 00:00:00,Monday,NORMAL
+TXN2579,Silverline Technologies,Bank Transfer,171797.92,Completed,2024-05-20 00:00:00,Monday,NORMAL
+TXN2580,David Miller,ATM Withdrawal,65300.4,Completed,2024-10-05 00:00:00,Saturday,NORMAL
+TXN2581,Apex Manufacturing Ltd,Online Payment,18773.73,Completed,2024-05-30 00:00:00,Thursday,NORMAL
+TXN2582,Noah Wilson,Bank Transfer,223309.21,Reversed,2024-11-19 00:00:00,Tuesday,NORMAL
+TXN2583,Apex Manufacturing Ltd,Bank Transfer,39297.02,Failed,2024-07-27 00:00:00,Saturday,NORMAL
+TXN2584,Liam Anderson,Online Payment,180516.48,Completed,2024-08-26 00:00:00,Monday,NORMAL
+TXN2585,Vertex Logistics,ATM Withdrawal,12432.62,Completed,2024-12-20 00:00:00,Friday,NORMAL
+TXN2586,Sophia Bennett,Wire Transfer,106915.8,Completed,2025-03-17 00:00:00,Monday,HIGH_RISK
+TXN2587,Summit Energy Ltd,Online Payment,6458.28,Completed,2024-09-09 00:00:00,Monday,NORMAL
+TXN2588,Elena Rostova,Online Payment,77105.64,Pending,2024-12-19 00:00:00,Thursday,NORMAL
+TXN2589,Olivia Carter,Wire Transfer,96897.09,Completed,2024-10-25 00:00:00,Friday,HIGH_RISK
+TXN2590,Crescent Retail Group,POS Payment,65842.41,Completed,2024-08-06 00:00:00,Tuesday,NORMAL
+TXN2591,Olivia Carter,Bank Transfer,188064.98,Completed,2024-05-26 00:00:00,Sunday,NORMAL
+TXN2592,Crescent Retail Group,Bank Transfer,189120.31,Completed,2024-05-14 00:00:00,Tuesday,NORMAL
+TXN2593,Emma Thompson,Bank Transfer,133890.22,,2024-12-12 00:00:00,Thursday,NORMAL
+TXN2594,Mason Lee,POS Payment,19761.79,Completed,2024-04-30 00:00:00,Tuesday,NORMAL
+TXN2595,Isabella Garcia,Bank Transfer,200117.57,Failed,2025-02-24 00:00:00,Monday,NORMAL
+TXN2596,Sophia Bennett,Wire Transfer,112273.71,Failed,2024-07-07 00:00:00,Sunday,HIGH_RISK
+TXN2597,Liam Anderson,POS Payment,105858.14,Completed,2024-11-21 00:00:00,Thursday,NORMAL
+TXN2598,Liam Anderson,Cash Deposit,148772.04,Completed,2024-05-17 00:00:00,Friday,NORMAL
+TXN2599,Elena Rostova,Online Payment,138024.75,Completed,2025-01-04 00:00:00,Saturday,NORMAL
+TXN2600,James Robinson,Wire Transfer,155773.91,Pending,2024-11-13 00:00:00,Wednesday,HIGH_RISK
+TXN2601,Northstar Trading LLC,Online Payment,141659.32,Completed,2024-06-03 00:00:00,Monday,NORMAL
+TXN2602,Northstar Trading LLC,Bank Transfer,196441.76,Pending,2024-10-06 00:00:00,Sunday,NORMAL
+TXN2603,Pioneer Imports,ATM Withdrawal,121409.06,Completed,2024-05-02 00:00:00,Thursday,NORMAL
+TXN2604,Apex Manufacturing Ltd,ATM Withdrawal,154570.67,Completed,2024-11-04 00:00:00,Monday,NORMAL
+TXN2605,David Miller,Online Payment,82890.23,Failed,2024-12-12 00:00:00,Thursday,NORMAL
+TXN2606,Olivia Carter,ATM Withdrawal,204351.05,Completed,2024-09-03 00:00:00,Tuesday,NORMAL
+TXN2607,Silverline Technologies,Cash Deposit,243124.85,Completed,2024-09-13 00:00:00,Friday,NORMAL
+TXN2608,James Robinson,ATM Withdrawal,104207.76,Completed,2024-07-18 00:00:00,Thursday,NORMAL
+TXN2609,James Robinson,POS Payment,101807.41,Failed,2025-01-02 00:00:00,Thursday,NORMAL
+TXN2610,Crescent Retail Group,Wire Transfer,39764.14,Completed,2024-12-28 00:00:00,Saturday,NORMAL
+TXN2611,Emma Thompson,POS Payment,131083.45,Pending,2024-07-10 00:00:00,Wednesday,NORMAL
+TXN2612,Liam Anderson,POS Payment,62391.33,Pending,2024-10-14 00:00:00,Monday,NORMAL
+TXN2613,Liam Anderson,ATM Withdrawal,116068.01,Completed,2024-06-15 00:00:00,Saturday,NORMAL
+TXN2614,Global Tech Corp,POS Payment,148521.05,Completed,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2615,Mason Lee,Bank Transfer,40899.32,Completed,2025-03-31 00:00:00,Monday,NORMAL
+TXN2616,Elena Rostova,ATM Withdrawal,12436.52,Completed,2024-07-31 00:00:00,Wednesday,NORMAL
+TXN2617,Bluewave Solutions,Cash Deposit,51702.58,Completed,2024-12-31 00:00:00,Tuesday,NORMAL
+TXN2618,Global Tech Corp,Cash Deposit,227881.07,Completed,2025-02-14 00:00:00,Friday,NORMAL
+TXN2619,Global Tech Corp,POS Payment,201276.27,Completed,2025-04-11 00:00:00,Friday,NORMAL
+TXN2620,Olivia Carter,Online Payment,212900.25,Failed,2024-08-02 00:00:00,Friday,NORMAL
+TXN2621,James Robinson,ATM Withdrawal,206082.1,Completed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2622,Global Tech Corp,Bank Transfer,241622.2,Reversed,2025-01-25 00:00:00,Saturday,NORMAL
+TXN2623,Summit Energy Ltd,Bank Transfer,171111.17,,2024-10-02 00:00:00,Wednesday,NORMAL
+TXN2624,Olivia Carter,Cash Deposit,69239.31,Completed,2025-03-12 00:00:00,Wednesday,NORMAL
+TXN2625,Vertex Logistics,POS Payment,191374.46,Completed,2025-02-14 00:00:00,Friday,NORMAL
+TXN2626,Emma Thompson,Cash Deposit,126761.191,Completed,2024-12-23 00:00:00,Monday,NORMAL
+TXN2627,Vertex Logistics,ATM Withdrawal,101164.61,Failed,2025-02-05 00:00:00,Wednesday,NORMAL
+TXN2628,Mason Lee,POS Payment,178349.49,Completed,2025-03-05 00:00:00,Wednesday,NORMAL
+TXN2629,Silverline Technologies,Cash Deposit,75066.2,Completed,2025-03-15 00:00:00,Saturday,NORMAL
+TXN2630,Horizon Healthcare,POS Payment,117708.45,Completed,2025-01-24 00:00:00,Friday,NORMAL
+TXN2631,Apex Manufacturing Ltd,Cash Deposit,163617.3,Failed,2024-08-05 00:00:00,Monday,NORMAL
+TXN2632,Vertex Logistics,Online Payment,82846,Pending,2024-09-10 00:00:00,Tuesday,NORMAL
+TXN2633,James Robinson,Wire Transfer,216601.68,Completed,2025-02-24 00:00:00,Monday,HIGH_RISK
+TXN2634,Elena Rostova,Online Payment,125131.83,Failed,2024-10-25 00:00:00,Friday,NORMAL
+TXN2635,Isabella Garcia,ATM Withdrawal,217715.52,Completed,2024-07-24 00:00:00,Wednesday,NORMAL
+TXN2636,Noah Wilson,Online Payment,223213.96,Reversed,2024-06-25 00:00:00,Tuesday,NORMAL
+TXN2637,Noah Wilson,Cash Deposit,20225.85,Completed,2024-07-12 00:00:00,Friday,NORMAL
+TXN2638,Noah Wilson,Cash Deposit,113027.01,Completed,2024-07-08 00:00:00,Monday,NORMAL
+TXN2639,Mason Lee,POS Payment,190898.2,Completed,2025-02-21 00:00:00,Friday,NORMAL
+TXN2640,Pioneer Imports,Cash Deposit,107270.64,Completed,2024-04-15 00:00:00,Monday,NORMAL
+TXN2641,David Miller,Bank Transfer,126761.191,Completed,2024-09-24 00:00:00,Tuesday,NORMAL
+TXN2642,Isabella Garcia,POS Payment,1055.86,Completed,2024-08-06 00:00:00,Tuesday,NORMAL
+TXN2643,Crescent Retail Group,ATM Withdrawal,95903.03,Completed,2024-07-07 00:00:00,Sunday,NORMAL
+TXN2644,Elena Rostova,Wire Transfer,72724.68,Completed,2025-02-12 00:00:00,Wednesday,HIGH_RISK
+TXN2645,Isabella Garcia,ATM Withdrawal,171702.87,Completed,2024-12-19 00:00:00,Thursday,NORMAL
+TXN2646,Crescent Retail Group,POS Payment,226725.89,Completed,2024-04-22 00:00:00,Monday,NORMAL
+TXN2647,Bluewave Solutions,POS Payment,32823.16,Pending,2025-02-08 00:00:00,Saturday,NORMAL
+TXN2648,Isabella Garcia,POS Payment,177784.74,Completed,2024-10-22 00:00:00,Tuesday,NORMAL
+TXN2649,Olivia Carter,Bank Transfer,126761.191,Completed,2024-06-07 00:00:00,Friday,NORMAL
+TXN2650,Global Tech Corp,Wire Transfer,104208.47,Completed,2025-01-18 00:00:00,Saturday,HIGH_RISK
+TXN2651,Olivia Carter,Online Payment,51393.59,Completed,2024-04-17 00:00:00,Wednesday,NORMAL
+TXN2652,Vertex Logistics,Online Payment,165629.18,Completed,2025-02-17 00:00:00,Monday,NORMAL
+TXN2653,Sophia Bennett,Online Payment,26250.94,Pending,2024-06-12 00:00:00,Wednesday,NORMAL
+TXN2654,Vertex Logistics,Wire Transfer,124447.32,Pending,2024-08-25 00:00:00,Sunday,HIGH_RISK
+TXN2655,Isabella Garcia,POS Payment,102453.81,Completed,2025-01-18 00:00:00,Saturday,NORMAL
+TXN2656,Silverline Technologies,POS Payment,120178.97,Completed,2024-04-19 00:00:00,Friday,NORMAL
+TXN2657,Elena Rostova,Wire Transfer,167263.76,Pending,2024-05-29 00:00:00,Wednesday,HIGH_RISK
+TXN2658,Isabella Garcia,Wire Transfer,25345.09,Pending,2024-08-09 00:00:00,Friday,NORMAL
+TXN2659,James Robinson,ATM Withdrawal,12543.8,Completed,2024-05-03 00:00:00,Friday,NORMAL
+TXN2660,Vertex Logistics,ATM Withdrawal,78193.96,Pending,2024-05-31 00:00:00,Friday,NORMAL
+TXN2661,David Miller,Wire Transfer,165847.17,Pending,2024-10-13 00:00:00,Sunday,HIGH_RISK
+TXN2662,James Robinson,Bank Transfer,183273.66,Completed,2024-10-05 00:00:00,Saturday,NORMAL
+TXN2663,Apex Manufacturing Ltd,Wire Transfer,240578.42,Completed,2024-10-27 00:00:00,Sunday,HIGH_RISK
+TXN2664,Silverline Technologies,Online Payment,199232.47,Completed,2025-04-04 00:00:00,Friday,NORMAL
+TXN2665,David Miller,POS Payment,227808.91,Completed,2025-01-29 00:00:00,Wednesday,NORMAL
+TXN2666,James Robinson,POS Payment,194796.59,Completed,2025-03-29 00:00:00,Saturday,NORMAL
+TXN2667,Sophia Bennett,Online Payment,28256.55,Failed,2024-05-06 00:00:00,Monday,NORMAL
+TXN2668,Elena Rostova,ATM Withdrawal,3114.74,Completed,2025-01-06 00:00:00,Monday,NORMAL
+TXN2669,Mason Lee,Cash Deposit,244474.44,Completed,2024-10-03 00:00:00,Thursday,NORMAL
+TXN2670,Isabella Garcia,Bank Transfer,154569.3,Completed,2024-08-18 00:00:00,Sunday,NORMAL
+TXN2671,Silverline Technologies,ATM Withdrawal,160360.08,Completed,2025-01-23 00:00:00,Thursday,NORMAL
+TXN2672,Summit Energy Ltd,Wire Transfer,233594.5,Completed,2024-12-09 00:00:00,Monday,HIGH_RISK
+TXN2673,Silverline Technologies,POS Payment,122924.7,Completed,2024-09-02 00:00:00,Monday,NORMAL
+TXN2674,David Miller,Bank Transfer,160838.25,Completed,2024-08-11 00:00:00,Sunday,NORMAL
+TXN2675,Elena Rostova,Online Payment,143269.41,Completed,2024-12-24 00:00:00,Tuesday,NORMAL
+TXN2676,James Robinson,ATM Withdrawal,124355.9,Completed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2677,Emma Thompson,Online Payment,137285.97,Completed,2025-02-16 00:00:00,Sunday,NORMAL
+TXN2678,Summit Energy Ltd,Cash Deposit,127096.73,Completed,2025-03-22 00:00:00,Saturday,NORMAL
+TXN2679,James Robinson,ATM Withdrawal,13592.45,Completed,2024-12-01 00:00:00,Sunday,NORMAL
+TXN2680,Noah Wilson,Bank Transfer,149997.79,Pending,2024-10-16 00:00:00,Wednesday,NORMAL
+TXN2681,James Robinson,Wire Transfer,126761.191,Completed,2024-10-11 00:00:00,Friday,HIGH_RISK
+TXN2682,Vertex Logistics,Bank Transfer,126761.191,Completed,2024-07-06 00:00:00,Saturday,NORMAL
+TXN2683,Silverline Technologies,POS Payment,185634.16,Pending,2024-08-21 00:00:00,Wednesday,NORMAL
+TXN2684,Summit Energy Ltd,POS Payment,232555.81,Completed,2024-12-03 00:00:00,Tuesday,NORMAL
+TXN2685,Liam Anderson,Cash Deposit,126761.191,Completed,2025-03-03 00:00:00,Monday,NORMAL
+TXN2686,Mason Lee,Wire Transfer,112639.89,Pending,2024-12-27 00:00:00,Friday,HIGH_RISK
+TXN2687,Sophia Bennett,Online Payment,184060.08,Completed,2024-11-20 00:00:00,Wednesday,NORMAL
+TXN2688,Mason Lee,Online Payment,195275.85,Failed,2025-04-02 00:00:00,Wednesday,NORMAL
+TXN2689,Mason Lee,POS Payment,32117.24,Pending,2025-02-14 00:00:00,Friday,NORMAL
+TXN2690,Summit Energy Ltd,ATM Withdrawal,96181.04,Completed,2025-04-02 00:00:00,Wednesday,NORMAL
+TXN2691,Bluewave Solutions,ATM Withdrawal,85731.13,Completed,2024-06-20 00:00:00,Thursday,NORMAL
+TXN2692,Sophia Bennett,Online Payment,221612.05,Completed,2025-04-07 00:00:00,Monday,NORMAL
+TXN2693,Horizon Healthcare,ATM Withdrawal,233879.63,Completed,2024-07-24 00:00:00,Wednesday,NORMAL
+TXN2694,Liam Anderson,Bank Transfer,171660.66,Completed,2024-06-19 00:00:00,Wednesday,NORMAL
+TXN2695,Apex Manufacturing Ltd,Bank Transfer,159228.44,Completed,2024-10-10 00:00:00,Thursday,NORMAL
+TXN2696,Horizon Healthcare,Online Payment,235669.85,Completed,2025-03-24 00:00:00,Monday,NORMAL
+TXN2697,Horizon Healthcare,ATM Withdrawal,126761.191,Failed,2024-06-06 00:00:00,Thursday,NORMAL
+TXN2698,Global Tech Corp,Online Payment,167571.79,Completed,2024-07-04 00:00:00,Thursday,NORMAL
+TXN2699,Vertex Logistics,Cash Deposit,209849.47,Completed,2024-09-11 00:00:00,Wednesday,NORMAL
+TXN2700,Liam Anderson,Bank Transfer,203511.2,Completed,2025-03-24 00:00:00,Monday,NORMAL
+TXN2701,Horizon Healthcare,POS Payment,140328.61,Pending,2025-04-04 00:00:00,Friday,NORMAL
+TXN2702,Vertex Logistics,Cash Deposit,231623.04,Completed,2025-03-29 00:00:00,Saturday,NORMAL
+TXN2703,Noah Wilson,Bank Transfer,185923.9,Completed,2024-11-25 00:00:00,Monday,NORMAL
+TXN2704,Bluewave Solutions,Cash Deposit,161916.91,Completed,2025-01-17 00:00:00,Friday,NORMAL
+TXN2705,Summit Energy Ltd,POS Payment,241073.35,Pending,2024-07-12 00:00:00,Friday,NORMAL
+TXN2706,Elena Rostova,POS Payment,183776.49,Reversed,2024-05-03 00:00:00,Friday,NORMAL
+TXN2707,Pioneer Imports,ATM Withdrawal,32538.38,Completed,2024-08-21 00:00:00,Wednesday,NORMAL
+TXN2708,Global Tech Corp,ATM Withdrawal,126761.191,Completed,2024-09-25 00:00:00,Wednesday,NORMAL
+TXN2709,Summit Energy Ltd,Wire Transfer,156351.03,Pending,2024-09-14 00:00:00,Saturday,HIGH_RISK
+TXN2710,Silverline Technologies,Bank Transfer,18243.38,Completed,2025-01-07 00:00:00,Tuesday,NORMAL
+TXN2711,Bluewave Solutions,POS Payment,196569.9,Completed,2025-01-16 00:00:00,Thursday,NORMAL
+TXN2712,Horizon Healthcare,Online Payment,55318.99,Completed,2024-09-29 00:00:00,Sunday,NORMAL
+TXN2713,Noah Wilson,ATM Withdrawal,237578.31,Completed,2024-12-12 00:00:00,Thursday,NORMAL
+TXN2714,Horizon Healthcare,Cash Deposit,167242.89,Completed,2025-03-07 00:00:00,Friday,NORMAL
+TXN2715,Summit Energy Ltd,Bank Transfer,9993.32,Completed,2024-10-25 00:00:00,Friday,NORMAL
+TXN2716,Northstar Trading LLC,Online Payment,126761.191,Completed,2025-01-02 00:00:00,Thursday,NORMAL
+TXN2717,Crescent Retail Group,Bank Transfer,126761.191,Pending,2025-03-12 00:00:00,Wednesday,NORMAL
+TXN2718,Liam Anderson,ATM Withdrawal,237054.25,Completed,2025-01-13 00:00:00,Monday,NORMAL
+TXN2719,Horizon Healthcare,Wire Transfer,52715.1,Completed,2024-07-31 00:00:00,Wednesday,HIGH_RISK
+TXN2720,Pioneer Imports,Wire Transfer,207191.45,Completed,2024-11-21 00:00:00,Thursday,HIGH_RISK
+TXN2721,Elena Rostova,Cash Deposit,5962.64,Completed,2024-05-02 00:00:00,Thursday,NORMAL
+TXN2722,Elena Rostova,Wire Transfer,198558.84,Completed,2025-02-01 00:00:00,Saturday,HIGH_RISK
+TXN2723,Bluewave Solutions,ATM Withdrawal,112795.14,Completed,2024-09-21 00:00:00,Saturday,NORMAL
+TXN2724,Global Tech Corp,Online Payment,133720.22,Completed,2025-02-23 00:00:00,Sunday,NORMAL
+TXN2725,Elena Rostova,Cash Deposit,175227.99,Completed,2024-12-26 00:00:00,Thursday,NORMAL
+TXN2726,Northstar Trading LLC,ATM Withdrawal,75355.14,Pending,2024-11-23 00:00:00,Saturday,NORMAL
+TXN2727,Emma Thompson,Online Payment,7729.02,Pending,2024-08-03 00:00:00,Saturday,NORMAL
+TXN2728,Sophia Bennett,Cash Deposit,199376.22,Completed,2025-03-03 00:00:00,Monday,NORMAL
+TXN2729,Sophia Bennett,ATM Withdrawal,228544.37,Completed,2025-03-10 00:00:00,Monday,NORMAL
+TXN2730,Crescent Retail Group,Wire Transfer,138778.56,Completed,2024-04-15 00:00:00,Monday,HIGH_RISK
+TXN2731,Mason Lee,Bank Transfer,136892.67,Completed,2024-07-29 00:00:00,Monday,NORMAL
+TXN2732,Crescent Retail Group,POS Payment,161491.73,Completed,2024-07-04 00:00:00,Thursday,NORMAL
+TXN2733,Apex Manufacturing Ltd,POS Payment,63204.13,Completed,2025-03-22 00:00:00,Saturday,NORMAL
+TXN2734,Mason Lee,Wire Transfer,233094.16,Pending,2024-12-05 00:00:00,Thursday,HIGH_RISK
+TXN2735,Horizon Healthcare,Wire Transfer,16864.01,Completed,2025-02-04 00:00:00,Tuesday,NORMAL
+TXN2736,Silverline Technologies,ATM Withdrawal,167832.11,Completed,2024-09-05 00:00:00,Thursday,NORMAL
+TXN2737,Summit Energy Ltd,Wire Transfer,79463.54,Failed,2025-02-22 00:00:00,Saturday,HIGH_RISK
+TXN2738,Vertex Logistics,Cash Deposit,141398.86,Completed,2024-09-21 00:00:00,Saturday,NORMAL
+TXN2739,Pioneer Imports,POS Payment,61562.63,Completed,2025-03-07 00:00:00,Friday,NORMAL
+TXN2740,Pioneer Imports,ATM Withdrawal,33598.1,Pending,2024-12-14 00:00:00,Saturday,NORMAL
+TXN2741,James Robinson,Online Payment,76385.31,Completed,2024-07-11 00:00:00,Thursday,NORMAL
+TXN2742,Summit Energy Ltd,Wire Transfer,214681.95,Pending,2025-01-13 00:00:00,Monday,HIGH_RISK
+TXN2743,Liam Anderson,ATM Withdrawal,156664.06,Pending,2024-04-22 00:00:00,Monday,NORMAL
+TXN2744,Isabella Garcia,Cash Deposit,145483.08,Completed,2025-02-09 00:00:00,Sunday,NORMAL
+TXN2745,Liam Anderson,Wire Transfer,135878.74,Completed,2024-12-10 00:00:00,Tuesday,HIGH_RISK
+TXN2746,Sophia Bennett,ATM Withdrawal,222862.1,Completed,2024-09-08 00:00:00,Sunday,NORMAL
+TXN2747,Sophia Bennett,Online Payment,22661.24,Completed,2024-04-18 00:00:00,Thursday,NORMAL
+TXN2748,Bluewave Solutions,Bank Transfer,189307.59,Completed,2024-07-03 00:00:00,Wednesday,NORMAL
+TXN2749,Apex Manufacturing Ltd,Bank Transfer,164861.84,Failed,2024-12-16 00:00:00,Monday,NORMAL
+TXN2750,Crescent Retail Group,Wire Transfer,126761.191,Completed,2024-10-19 00:00:00,Saturday,HIGH_RISK
+TXN2751,Bluewave Solutions,Wire Transfer,129483.36,Completed,2024-10-28 00:00:00,Monday,HIGH_RISK
+TXN2752,Silverline Technologies,Online Payment,10000.18,Failed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2753,Isabella Garcia,Cash Deposit,208722.19,Pending,2025-01-16 00:00:00,Thursday,NORMAL
+TXN2754,Mason Lee,POS Payment,94645.17,Completed,2024-05-22 00:00:00,Wednesday,NORMAL
+TXN2755,Isabella Garcia,ATM Withdrawal,226812.93,Completed,2024-10-10 00:00:00,Thursday,NORMAL
+TXN2756,Crescent Retail Group,Online Payment,126761.191,Pending,2024-06-23 00:00:00,Sunday,NORMAL
+TXN2757,James Robinson,POS Payment,128647.45,Completed,2024-06-28 00:00:00,Friday,NORMAL
+TXN2758,Apex Manufacturing Ltd,POS Payment,179332.74,Completed,2024-08-08 00:00:00,Thursday,NORMAL
+TXN2759,Pioneer Imports,ATM Withdrawal,120392.12,Pending,2024-07-29 00:00:00,Monday,NORMAL
+TXN2760,Mason Lee,POS Payment,102739.53,Completed,2024-06-17 00:00:00,Monday,NORMAL
+TXN2761,Mason Lee,Bank Transfer,126761.191,Completed,2025-01-31 00:00:00,Friday,NORMAL
+TXN2762,Sophia Bennett,Wire Transfer,230613.66,Completed,2024-11-06 00:00:00,Wednesday,HIGH_RISK
+TXN2763,Summit Energy Ltd,Bank Transfer,219630.28,Completed,2024-09-05 00:00:00,Thursday,NORMAL
+TXN2764,Elena Rostova,POS Payment,248194.14,Completed,2024-07-09 00:00:00,Tuesday,NORMAL
+TXN2765,Bluewave Solutions,Online Payment,198659.15,Completed,2024-07-15 00:00:00,Monday,NORMAL
+TXN2766,Summit Energy Ltd,Cash Deposit,41951.23,Completed,2024-12-01 00:00:00,Sunday,NORMAL
+TXN2767,Summit Energy Ltd,Bank Transfer,94568.38,Completed,2024-04-21 00:00:00,Sunday,NORMAL
+TXN2768,Liam Anderson,Bank Transfer,126102.27,Pending,2024-06-28 00:00:00,Friday,NORMAL
+TXN2769,Summit Energy Ltd,Wire Transfer,225404.51,Completed,2025-01-10 00:00:00,Friday,HIGH_RISK
+TXN2770,Isabella Garcia,Wire Transfer,164856.67,Completed,2025-01-14 00:00:00,Tuesday,HIGH_RISK
+TXN2771,Global Tech Corp,Cash Deposit,130523.01,Completed,2024-05-05 00:00:00,Sunday,NORMAL
+TXN2772,Isabella Garcia,Online Payment,200579.99,Completed,2024-10-25 00:00:00,Friday,NORMAL
+TXN2773,Crescent Retail Group,Bank Transfer,226967.02,Pending,2025-02-01 00:00:00,Saturday,NORMAL
+TXN2774,Northstar Trading LLC,Online Payment,119298.38,Completed,2024-05-25 00:00:00,Saturday,NORMAL
+TXN2775,Vertex Logistics,Bank Transfer,102176.46,Failed,2025-04-11 00:00:00,Friday,NORMAL
+TXN2776,Global Tech Corp,Bank Transfer,129952.47,Completed,2024-07-27 00:00:00,Saturday,NORMAL
+TXN2777,Noah Wilson,Online Payment,38715.78,Completed,2024-08-20 00:00:00,Tuesday,NORMAL
+TXN2778,Olivia Carter,Bank Transfer,91426.88,Completed,2025-03-27 00:00:00,Thursday,NORMAL
+TXN2779,Emma Thompson,POS Payment,195952.51,Completed,2024-10-19 00:00:00,Saturday,NORMAL
+TXN2780,Horizon Healthcare,Bank Transfer,247127.35,Completed,2025-04-09 00:00:00,Wednesday,NORMAL
+TXN2781,Emma Thompson,Cash Deposit,215961.04,Completed,2024-08-08 00:00:00,Thursday,NORMAL
+TXN2782,James Robinson,Cash Deposit,25092.15,Failed,2024-10-03 00:00:00,Thursday,NORMAL
+TXN2783,Horizon Healthcare,Bank Transfer,176704.81,Completed,2025-03-04 00:00:00,Tuesday,NORMAL
+TXN2784,Global Tech Corp,Wire Transfer,117930.37,Pending,2024-05-28 00:00:00,Tuesday,HIGH_RISK
+TXN2785,Elena Rostova,ATM Withdrawal,126761.191,Completed,2024-10-26 00:00:00,Saturday,NORMAL
+TXN2786,Emma Thompson,Bank Transfer,71635.15,Completed,2024-05-12 00:00:00,Sunday,NORMAL
+TXN2787,Apex Manufacturing Ltd,Cash Deposit,2702.33,Completed,2025-01-03 00:00:00,Friday,NORMAL
+TXN2788,Vertex Logistics,POS Payment,149888.74,Completed,2024-08-09 00:00:00,Friday,NORMAL
+TXN2789,Summit Energy Ltd,POS Payment,89951.01,Completed,2024-07-02 00:00:00,Tuesday,NORMAL
+TXN2790,Elena Rostova,ATM Withdrawal,88298.09,Pending,2025-02-07 00:00:00,Friday,NORMAL
+TXN2791,,Bank Transfer,175912.89,Completed,2025-01-19 00:00:00,Sunday,NORMAL
+TXN2792,Vertex Logistics,Cash Deposit,228754.37,Pending,2024-09-01 00:00:00,Sunday,NORMAL
+TXN2793,Bluewave Solutions,Bank Transfer,113703.38,Reversed,2024-04-15 00:00:00,Monday,NORMAL
+TXN2794,Olivia Carter,POS Payment,26638.58,Completed,2024-09-10 00:00:00,Tuesday,NORMAL
+TXN2795,Noah Wilson,Wire Transfer,239178.42,Pending,2025-02-01 00:00:00,Saturday,HIGH_RISK
+TXN2796,Olivia Carter,Cash Deposit,94285.64,Completed,2024-08-15 00:00:00,Thursday,NORMAL
+TXN2797,Noah Wilson,Online Payment,224133.54,Completed,2024-12-15 00:00:00,Sunday,NORMAL
+TXN2798,Northstar Trading LLC,ATM Withdrawal,158424.61,Completed,2025-03-25 00:00:00,Tuesday,NORMAL
+TXN2799,Bluewave Solutions,ATM Withdrawal,88290.24,Completed,2025-04-06 00:00:00,Sunday,NORMAL
+TXN2800,Olivia Carter,POS Payment,99747.69,Completed,2024-10-05 00:00:00,Saturday,NORMAL
+TXN2801,Elena Rostova,Bank Transfer,119151.95,Failed,2025-01-31 00:00:00,Friday,NORMAL
+TXN2802,Olivia Carter,POS Payment,170784.75,Failed,2024-12-24 00:00:00,Tuesday,NORMAL
+TXN2803,Liam Anderson,POS Payment,218188.81,Pending,2024-07-25 00:00:00,Thursday,NORMAL
+TXN2804,Bluewave Solutions,Bank Transfer,194740.15,Completed,2024-05-23 00:00:00,Thursday,NORMAL
+TXN2805,Silverline Technologies,Bank Transfer,214275.91,Completed,2024-12-15 00:00:00,Sunday,NORMAL
+TXN2806,Crescent Retail Group,Bank Transfer,224532.85,Completed,2025-02-01 00:00:00,Saturday,NORMAL
+TXN2807,Olivia Carter,Online Payment,191071.47,Completed,2024-11-02 00:00:00,Saturday,NORMAL
+TXN2808,Bluewave Solutions,Bank Transfer,131445.72,Completed,2025-01-14 00:00:00,Tuesday,NORMAL
+TXN2809,David Miller,Bank Transfer,215103.52,Completed,2024-12-03 00:00:00,Tuesday,NORMAL
+TXN2810,Northstar Trading LLC,Cash Deposit,126761.191,Completed,2025-03-24 00:00:00,Monday,NORMAL
+TXN2811,Liam Anderson,Online Payment,81375.91,Completed,2024-08-23 00:00:00,Friday,NORMAL
+TXN2812,Apex Manufacturing Ltd,Bank Transfer,67370.32,Completed,2024-10-05 00:00:00,Saturday,NORMAL
+TXN2813,Crescent Retail Group,POS Payment,52652.86,Completed,2024-10-20 00:00:00,Sunday,NORMAL
+TXN2814,Crescent Retail Group,Online Payment,44992.81,Completed,2025-02-01 00:00:00,Saturday,NORMAL
+TXN2815,Bluewave Solutions,Wire Transfer,201026.79,Pending,2024-10-25 00:00:00,Friday,HIGH_RISK
+TXN2816,Liam Anderson,POS Payment,184642.04,Pending,2024-04-17 00:00:00,Wednesday,NORMAL
+TXN2817,Apex Manufacturing Ltd,Online Payment,248890.55,Completed,2025-01-02 00:00:00,Thursday,NORMAL
+TXN2818,Horizon Healthcare,Cash Deposit,121667.88,Completed,2025-01-28 00:00:00,Tuesday,NORMAL
+TXN2819,David Miller,Online Payment,40856.39,Completed,2024-08-21 00:00:00,Wednesday,NORMAL
+TXN2820,Silverline Technologies,Cash Deposit,186154.69,Completed,2024-10-14 00:00:00,Monday,NORMAL
+TXN2821,Horizon Healthcare,Bank Transfer,126761.191,Failed,2024-06-14 00:00:00,Friday,NORMAL
+TXN2822,Crescent Retail Group,Cash Deposit,49759.55,Reversed,2025-03-11 00:00:00,Tuesday,NORMAL
+TXN2823,Horizon Healthcare,POS Payment,71170.07,Reversed,2024-12-30 00:00:00,Monday,NORMAL
+TXN2824,Silverline Technologies,Cash Deposit,19624.92,Completed,2024-12-06 00:00:00,Friday,NORMAL
+TXN2825,Sophia Bennett,POS Payment,232143.45,Completed,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2826,Mason Lee,Online Payment,17859.24,Pending,2024-08-07 00:00:00,Wednesday,NORMAL
+TXN2827,Noah Wilson,ATM Withdrawal,177615.61,Completed,2024-11-01 00:00:00,Friday,NORMAL
+TXN2828,Olivia Carter,Online Payment,234693.99,Pending,2025-01-04 00:00:00,Saturday,NORMAL
+TXN2829,James Robinson,Online Payment,213556.61,Completed,2024-08-11 00:00:00,Sunday,NORMAL
+TXN2830,Olivia Carter,Cash Deposit,20039.18,Completed,2024-06-04 00:00:00,Tuesday,NORMAL
+TXN2831,Northstar Trading LLC,Wire Transfer,126761.191,Failed,2024-11-02 00:00:00,Saturday,HIGH_RISK
+TXN2832,Isabella Garcia,Wire Transfer,154535.09,Completed,2024-10-29 00:00:00,Tuesday,HIGH_RISK
+TXN2833,Vertex Logistics,POS Payment,71061.72,Completed,2024-06-19 00:00:00,Wednesday,NORMAL
+TXN2834,Isabella Garcia,POS Payment,165895.7,Completed,2024-09-26 00:00:00,Thursday,NORMAL
+TXN2835,Silverline Technologies,Online Payment,135157.53,Reversed,2024-11-26 00:00:00,Tuesday,NORMAL
+TXN2836,Sophia Bennett,Cash Deposit,147717.96,Completed,2025-03-04 00:00:00,Tuesday,NORMAL
+TXN2837,Mason Lee,Online Payment,159891.07,Completed,2024-10-07 00:00:00,Monday,NORMAL
+TXN2838,Silverline Technologies,Bank Transfer,22411.27,Completed,2024-11-10 00:00:00,Sunday,NORMAL
+TXN2839,Olivia Carter,POS Payment,48.08,Completed,2024-06-21 00:00:00,Friday,NORMAL
+TXN2840,Crescent Retail Group,ATM Withdrawal,2104.07,Completed,2024-12-13 00:00:00,Friday,NORMAL
+TXN2841,Vertex Logistics,Wire Transfer,199496.24,Pending,2024-04-16 00:00:00,Tuesday,HIGH_RISK
+TXN2842,Horizon Healthcare,ATM Withdrawal,220543.46,Completed,2024-08-18 00:00:00,Sunday,NORMAL
+TXN2843,Apex Manufacturing Ltd,Cash Deposit,97446.07,Pending,2024-08-25 00:00:00,Sunday,NORMAL
+TXN2844,Elena Rostova,Online Payment,129164.6,Completed,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2845,Olivia Carter,ATM Withdrawal,132997.77,Completed,2024-07-18 00:00:00,Thursday,NORMAL
+TXN2846,Elena Rostova,POS Payment,27611.33,Completed,2024-11-30 00:00:00,Saturday,NORMAL
+TXN2847,Olivia Carter,Cash Deposit,126761.191,Completed,2024-05-08 00:00:00,Wednesday,NORMAL
+TXN2848,Horizon Healthcare,Wire Transfer,25590.82,Completed,2024-11-23 00:00:00,Saturday,NORMAL
+TXN2849,Global Tech Corp,POS Payment,3705.84,Completed,2024-11-14 00:00:00,Thursday,NORMAL
+TXN2850,Vertex Logistics,Online Payment,115934.52,Reversed,2024-09-29 00:00:00,Sunday,NORMAL
+TXN2851,Elena Rostova,POS Payment,193918.84,Completed,2024-12-09 00:00:00,Monday,NORMAL
+TXN2852,Apex Manufacturing Ltd,POS Payment,62538.61,Failed,2024-04-19 00:00:00,Friday,NORMAL
+TXN2853,Northstar Trading LLC,Cash Deposit,192812.05,Completed,2024-04-30 00:00:00,Tuesday,NORMAL
+TXN2854,Liam Anderson,Online Payment,23512.73,Pending,2024-07-28 00:00:00,Sunday,NORMAL
+TXN2855,Silverline Technologies,Online Payment,78044.54,Completed,2025-03-01 00:00:00,Saturday,NORMAL
+TXN2856,David Miller,Cash Deposit,130243.54,Failed,2025-03-05 00:00:00,Wednesday,NORMAL
+TXN2857,Vertex Logistics,POS Payment,13045.58,Completed,2024-06-09 00:00:00,Sunday,NORMAL
+TXN2858,Bluewave Solutions,Cash Deposit,3791.55,Completed,2025-02-06 00:00:00,Thursday,NORMAL
+TXN2859,Northstar Trading LLC,Online Payment,126761.191,Pending,2025-04-01 00:00:00,Tuesday,NORMAL
+TXN2860,Silverline Technologies,Cash Deposit,92865.38,Completed,2024-07-02 00:00:00,Tuesday,NORMAL
+TXN2861,Silverline Technologies,Wire Transfer,84622.06,Completed,2025-02-27 00:00:00,Thursday,HIGH_RISK
+TXN2862,David Miller,Wire Transfer,38500.76,Completed,2024-06-06 00:00:00,Thursday,NORMAL
+TXN2863,Sophia Bennett,Online Payment,245419.39,Completed,2024-10-07 00:00:00,Monday,NORMAL
+TXN2864,James Robinson,Cash Deposit,172320.26,Completed,2024-06-20 00:00:00,Thursday,NORMAL
+TXN2865,Olivia Carter,Wire Transfer,109389.06,Completed,2025-04-04 00:00:00,Friday,HIGH_RISK
+TXN2866,Silverline Technologies,POS Payment,135916.55,Completed,2024-12-08 00:00:00,Sunday,NORMAL
+TXN2867,Olivia Carter,Bank Transfer,126761.191,Failed,2024-07-01 00:00:00,Monday,NORMAL
+TXN2868,James Robinson,ATM Withdrawal,135412.95,Pending,2025-03-05 00:00:00,Wednesday,NORMAL
+TXN2869,Isabella Garcia,Online Payment,220736.02,Pending,2024-10-16 00:00:00,Wednesday,NORMAL
+TXN2870,Summit Energy Ltd,POS Payment,15858.86,Completed,2024-10-28 00:00:00,Monday,NORMAL
+TXN2871,,Bank Transfer,191439.38,Completed,2024-09-04 00:00:00,Wednesday,NORMAL
+TXN2872,Noah Wilson,Online Payment,27638.27,Completed,2024-05-17 00:00:00,Friday,NORMAL
+TXN2873,David Miller,POS Payment,7842.66,Completed,2024-07-20 00:00:00,Saturday,NORMAL
+TXN2874,Northstar Trading LLC,Wire Transfer,209078.97,Completed,2025-01-07 00:00:00,Tuesday,HIGH_RISK
+TXN2875,Summit Energy Ltd,Cash Deposit,12295.18,Completed,2024-05-19 00:00:00,Sunday,NORMAL
+TXN2876,Global Tech Corp,POS Payment,232102.72,Completed,2024-12-08 00:00:00,Sunday,NORMAL
+TXN2877,David Miller,ATM Withdrawal,234562.51,Completed,2024-10-18 00:00:00,Friday,NORMAL
+TXN2878,David Miller,Bank Transfer,10187.27,Completed,2024-09-15 00:00:00,Sunday,NORMAL
+TXN2879,Elena Rostova,POS Payment,24302.38,Reversed,2025-01-10 00:00:00,Friday,NORMAL
+TXN2880,Emma Thompson,POS Payment,164227.71,Completed,2024-07-13 00:00:00,Saturday,NORMAL
+TXN2881,Horizon Healthcare,Cash Deposit,186533.44,Completed,2025-02-02 00:00:00,Sunday,NORMAL
+TXN2882,Crescent Retail Group,Cash Deposit,166318.96,Completed,2024-07-07 00:00:00,Sunday,NORMAL
+TXN2883,Apex Manufacturing Ltd,Bank Transfer,84394.78,Completed,2025-02-14 00:00:00,Friday,NORMAL
+TXN2884,James Robinson,ATM Withdrawal,137531.58,Failed,2024-10-20 00:00:00,Sunday,NORMAL
+TXN2885,Pioneer Imports,Cash Deposit,181473.77,Completed,2025-01-26 00:00:00,Sunday,NORMAL
+TXN2886,Horizon Healthcare,POS Payment,137570.92,Completed,2024-10-14 00:00:00,Monday,NORMAL
+TXN2887,James Robinson,Online Payment,126761.191,Reversed,2024-09-05 00:00:00,Thursday,NORMAL
+TXN2888,Summit Energy Ltd,Wire Transfer,248353.17,Completed,2024-09-13 00:00:00,Friday,HIGH_RISK
+TXN2889,Bluewave Solutions,POS Payment,5449.8,Pending,2025-04-01 00:00:00,Tuesday,NORMAL
+TXN2890,Olivia Carter,Bank Transfer,142677.78,Completed,2024-05-31 00:00:00,Friday,NORMAL
+TXN2891,David Miller,Online Payment,34623.59,Completed,2025-02-05 00:00:00,Wednesday,NORMAL
+TXN2892,Bluewave Solutions,POS Payment,75093.1,Completed,2025-01-29 00:00:00,Wednesday,NORMAL
+TXN2893,Liam Anderson,Cash Deposit,81189.9,Completed,2024-12-18 00:00:00,Wednesday,NORMAL
+TXN2894,Mason Lee,Wire Transfer,75115.8,Completed,2025-02-02 00:00:00,Sunday,HIGH_RISK
+TXN2895,Emma Thompson,Wire Transfer,230469.83,Pending,2024-11-21 00:00:00,Thursday,HIGH_RISK
+TXN2896,Pioneer Imports,Wire Transfer,56698.75,Pending,2025-02-15 00:00:00,Saturday,HIGH_RISK
+TXN2897,Global Tech Corp,Cash Deposit,95637.18,Pending,2024-05-04 00:00:00,Saturday,NORMAL
+TXN2898,Noah Wilson,Bank Transfer,81724.74,Completed,2024-06-30 00:00:00,Sunday,NORMAL
+TXN2899,David Miller,Cash Deposit,98235.85,Pending,2025-02-11 00:00:00,Tuesday,NORMAL
+TXN2900,Mason Lee,Bank Transfer,107998.12,Completed,2024-06-27 00:00:00,Thursday,NORMAL
+TXN2901,Sophia Bennett,ATM Withdrawal,126761.191,Completed,2024-11-03 00:00:00,Sunday,NORMAL
+TXN2902,Olivia Carter,Wire Transfer,108636.92,Completed,2024-06-21 00:00:00,Friday,HIGH_RISK
+TXN2903,Silverline Technologies,Bank Transfer,98844.82,Completed,2025-01-25 00:00:00,Saturday,NORMAL
+TXN2904,Summit Energy Ltd,Cash Deposit,60597.72,Completed,2024-11-19 00:00:00,Tuesday,NORMAL
+TXN2905,Noah Wilson,Cash Deposit,22421.42,Failed,2024-11-15 00:00:00,Friday,NORMAL
+TXN2906,Crescent Retail Group,ATM Withdrawal,86147.61,Completed,2024-09-16 00:00:00,Monday,NORMAL
+TXN2907,Apex Manufacturing Ltd,ATM Withdrawal,247540.04,Completed,2024-06-26 00:00:00,Wednesday,NORMAL
+TXN2908,James Robinson,Wire Transfer,58391.56,Failed,2024-07-01 00:00:00,Monday,HIGH_RISK
+TXN2909,Elena Rostova,Wire Transfer,60781,Pending,2024-06-27 00:00:00,Thursday,HIGH_RISK
+TXN2910,Vertex Logistics,Wire Transfer,201075.09,Completed,2024-12-10 00:00:00,Tuesday,HIGH_RISK
+TXN2911,Global Tech Corp,ATM Withdrawal,134512.91,Completed,2025-01-05 00:00:00,Sunday,NORMAL
+TXN2912,Olivia Carter,Bank Transfer,182487.65,Completed,2025-04-05 00:00:00,Saturday,NORMAL
+TXN2913,Global Tech Corp,Online Payment,126761.191,Completed,2024-07-09 00:00:00,Tuesday,NORMAL
+TXN2914,David Miller,ATM Withdrawal,174139.26,Completed,2024-12-07 00:00:00,Saturday,NORMAL
+TXN2915,Global Tech Corp,Wire Transfer,67845.81,Completed,2025-03-16 00:00:00,Sunday,HIGH_RISK
+TXN2916,Crescent Retail Group,Wire Transfer,216855.93,Completed,2024-08-09 00:00:00,Friday,HIGH_RISK
+TXN2917,Emma Thompson,Bank Transfer,24923.44,Reversed,2025-02-12 00:00:00,Wednesday,NORMAL
+TXN2918,Horizon Healthcare,Wire Transfer,125175.19,Completed,2025-04-12 00:00:00,Saturday,HIGH_RISK
+TXN2919,Global Tech Corp,Wire Transfer,132365.61,Completed,2024-10-31 00:00:00,Thursday,HIGH_RISK
+TXN2920,Apex Manufacturing Ltd,Wire Transfer,87994.47,Completed,2024-08-11 00:00:00,Sunday,HIGH_RISK
+TXN2921,Isabella Garcia,ATM Withdrawal,156457.45,Pending,2024-04-28 00:00:00,Sunday,NORMAL
+TXN2922,Horizon Healthcare,ATM Withdrawal,85462.99,Completed,2024-06-22 00:00:00,Saturday,NORMAL
+TXN2923,Elena Rostova,Cash Deposit,240152.41,Completed,2025-02-27 00:00:00,Thursday,NORMAL
+TXN2924,Bluewave Solutions,Online Payment,38208.47,Completed,2025-02-16 00:00:00,Sunday,NORMAL
+TXN2925,Noah Wilson,Online Payment,51709.15,Completed,2025-01-15 00:00:00,Wednesday,NORMAL
+TXN2926,Liam Anderson,POS Payment,176291.47,Completed,2024-06-21 00:00:00,Friday,NORMAL
+TXN2927,Pioneer Imports,POS Payment,141221.95,Completed,2024-05-17 00:00:00,Friday,NORMAL
+TXN2928,Horizon Healthcare,Bank Transfer,29618.86,Failed,2024-06-26 00:00:00,Wednesday,NORMAL
+TXN2929,Global Tech Corp,ATM Withdrawal,103524.69,Failed,2024-11-25 00:00:00,Monday,NORMAL
+TXN2930,Olivia Carter,POS Payment,26715.19,Pending,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2931,Summit Energy Ltd,ATM Withdrawal,153100.2,Completed,2024-08-09 00:00:00,Friday,NORMAL
+TXN2932,Global Tech Corp,ATM Withdrawal,194962.07,Completed,2025-02-16 00:00:00,Sunday,NORMAL
+TXN2933,Silverline Technologies,Cash Deposit,46014.52,Completed,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2934,Sophia Bennett,POS Payment,8081.58,Completed,2024-04-20 00:00:00,Saturday,NORMAL
+TXN2935,Olivia Carter,Online Payment,167842.99,Completed,2024-07-26 00:00:00,Friday,NORMAL
+TXN2936,Elena Rostova,POS Payment,246407.27,Failed,2024-12-19 00:00:00,Thursday,NORMAL
+TXN2937,Noah Wilson,Online Payment,106903.23,Failed,2025-02-18 00:00:00,Tuesday,NORMAL
+TXN2938,Emma Thompson,Cash Deposit,152885.93,Completed,2025-02-11 00:00:00,Tuesday,NORMAL
+TXN2939,Horizon Healthcare,Bank Transfer,126761.191,Completed,2024-06-07 00:00:00,Friday,NORMAL
+TXN2940,James Robinson,Online Payment,10627.92,Pending,2025-01-03 00:00:00,Friday,NORMAL
+TXN2941,Horizon Healthcare,Online Payment,9836.92,Reversed,2025-03-01 00:00:00,Saturday,NORMAL
+TXN2942,David Miller,POS Payment,99525.02,Completed,2024-09-06 00:00:00,Friday,NORMAL
+TXN2943,James Robinson,POS Payment,126761.191,Completed,2025-01-02 00:00:00,Thursday,NORMAL
+TXN2944,Sophia Bennett,Online Payment,112938.23,Pending,2024-06-09 00:00:00,Sunday,NORMAL
+TXN2945,Apex Manufacturing Ltd,Bank Transfer,174036.13,Failed,2024-11-10 00:00:00,Sunday,NORMAL
+TXN2946,Noah Wilson,Online Payment,113433.84,Completed,2024-07-25 00:00:00,Thursday,NORMAL
+TXN2947,James Robinson,Wire Transfer,172937.06,Completed,2024-07-05 00:00:00,Friday,HIGH_RISK
+TXN2948,Northstar Trading LLC,Wire Transfer,112363.37,Completed,2025-01-06 00:00:00,Monday,HIGH_RISK
+TXN2949,Emma Thompson,Cash Deposit,127928.82,Pending,2024-10-23 00:00:00,Wednesday,NORMAL
+TXN2950,Horizon Healthcare,Online Payment,42741.97,Completed,2025-03-16 00:00:00,Sunday,NORMAL
+TXN2951,Sophia Bennett,POS Payment,44737.22,Pending,2024-11-13 00:00:00,Wednesday,NORMAL
+TXN2952,Vertex Logistics,ATM Withdrawal,240242.5,Pending,2024-07-14 00:00:00,Sunday,NORMAL
+TXN2953,Northstar Trading LLC,POS Payment,908.14,Reversed,2024-04-19 00:00:00,Friday,NORMAL
+TXN2954,James Robinson,Online Payment,126761.191,Pending,2024-12-21 00:00:00,Saturday,NORMAL
+TXN2955,Bluewave Solutions,POS Payment,118941.1,Completed,2024-05-23 00:00:00,Thursday,NORMAL
+TXN2956,Summit Energy Ltd,Bank Transfer,220544.91,Completed,2025-02-28 00:00:00,Friday,NORMAL
+TXN2957,Horizon Healthcare,POS Payment,37085.34,Completed,2024-05-01 00:00:00,Wednesday,NORMAL
+TXN2958,Sophia Bennett,Wire Transfer,209507.66,Completed,2024-05-27 00:00:00,Monday,HIGH_RISK
+TXN2959,David Miller,Wire Transfer,44582.64,Completed,2025-02-19 00:00:00,Wednesday,NORMAL
+TXN2960,Summit Energy Ltd,Bank Transfer,44375.38,Pending,2025-02-03 00:00:00,Monday,NORMAL
+TXN2961,Crescent Retail Group,Wire Transfer,74841.14,Completed,2024-10-24 00:00:00,Thursday,HIGH_RISK
+TXN2962,Elena Rostova,Online Payment,16254.84,Pending,2024-06-14 00:00:00,Friday,NORMAL
+TXN2963,Olivia Carter,ATM Withdrawal,131173.44,Completed,2025-02-20 00:00:00,Thursday,NORMAL
+TXN2964,David Miller,Wire Transfer,244838,Completed,2024-05-27 00:00:00,Monday,HIGH_RISK
+TXN2965,Silverline Technologies,Cash Deposit,233474.57,Completed,2024-09-07 00:00:00,Saturday,NORMAL
+TXN2966,Pioneer Imports,Bank Transfer,64933.52,Pending,2025-02-26 00:00:00,Wednesday,NORMAL
+TXN2967,Crescent Retail Group,POS Payment,124111.82,Completed,2024-12-23 00:00:00,Monday,NORMAL
+TXN2968,Silverline Technologies,POS Payment,58199.59,Failed,2024-07-21 00:00:00,Sunday,NORMAL
+TXN2969,Global Tech Corp,Wire Transfer,156374.55,Completed,2024-07-28 00:00:00,Sunday,HIGH_RISK
+TXN2970,Summit Energy Ltd,Online Payment,83464.72,Completed,2025-03-05 00:00:00,Wednesday,NORMAL
+TXN2971,Liam Anderson,Wire Transfer,172512.01,Completed,2024-05-17 00:00:00,Friday,HIGH_RISK
+TXN2972,Vertex Logistics,ATM Withdrawal,126761.191,Completed,2025-03-30 00:00:00,Sunday,NORMAL
+TXN2973,Noah Wilson,ATM Withdrawal,142241.16,Completed,2024-07-11 00:00:00,Thursday,NORMAL
+TXN2974,Liam Anderson,ATM Withdrawal,230571.88,Pending,2024-12-11 00:00:00,Wednesday,NORMAL
+TXN2975,David Miller,Cash Deposit,38867.69,Completed,2025-01-12 00:00:00,Sunday,NORMAL
+TXN2976,Noah Wilson,Online Payment,103502.92,Pending,2025-01-04 00:00:00,Saturday,NORMAL
+TXN2977,Vertex Logistics,Bank Transfer,78892.82,Pending,2024-07-28 00:00:00,Sunday,NORMAL
+TXN2978,Mason Lee,Cash Deposit,229048.71,Completed,2024-05-16 00:00:00,Thursday,NORMAL
+TXN2979,Sophia Bennett,ATM Withdrawal,84804.63,Pending,2025-01-11 00:00:00,Saturday,NORMAL
+TXN2980,Apex Manufacturing Ltd,Bank Transfer,46865.04,Completed,2024-09-17 00:00:00,Tuesday,NORMAL
+TXN2981,Noah Wilson,Cash Deposit,103482.05,Completed,2024-08-12 00:00:00,Monday,NORMAL
+TXN2982,Crescent Retail Group,Online Payment,75674.61,Pending,2024-07-11 00:00:00,Thursday,NORMAL
+TXN2983,Northstar Trading LLC,ATM Withdrawal,194453.15,Pending,2024-11-26 00:00:00,Tuesday,NORMAL
+TXN2984,Isabella Garcia,Wire Transfer,226241.33,Pending,2024-10-04 00:00:00,Friday,HIGH_RISK
+TXN2985,Silverline Technologies,Cash Deposit,77606.92,Failed,2024-06-02 00:00:00,Sunday,NORMAL
+TXN2986,Isabella Garcia,Cash Deposit,126761.191,Reversed,2024-10-28 00:00:00,Monday,NORMAL
+TXN2987,Isabella Garcia,Wire Transfer,233086.03,Completed,2025-02-11 00:00:00,Tuesday,HIGH_RISK
+TXN2988,Elena Rostova,ATM Withdrawal,11558.79,Completed,2025-03-16 00:00:00,Sunday,NORMAL
+TXN2989,Vertex Logistics,Wire Transfer,78052.92,Completed,2024-09-24 00:00:00,Tuesday,HIGH_RISK
+TXN2990,Liam Anderson,POS Payment,133080.64,Completed,2025-03-22 00:00:00,Saturday,NORMAL
+TXN2991,Northstar Trading LLC,ATM Withdrawal,126761.191,Completed,2025-02-25 00:00:00,Tuesday,NORMAL
+TXN2992,Horizon Healthcare,Bank Transfer,135643.62,Completed,2024-08-29 00:00:00,Thursday,NORMAL
+TXN2993,Sophia Bennett,Cash Deposit,143531.38,Pending,2024-09-19 00:00:00,Thursday,NORMAL
+TXN2994,Summit Energy Ltd,ATM Withdrawal,126761.191,Completed,2025-03-24 00:00:00,Monday,NORMAL
+TXN2995,David Miller,Wire Transfer,21552.74,Completed,2025-04-08 00:00:00,Tuesday,NORMAL
+TXN2996,Summit Energy Ltd,Bank Transfer,172538.97,Completed,2024-10-12 00:00:00,Saturday,NORMAL
+TXN2997,Vertex Logistics,ATM Withdrawal,178231.85,Pending,2025-01-11 00:00:00,Saturday,NORMAL
+TXN2998,Elena Rostova,Online Payment,23251.72,Completed,2025-04-05 00:00:00,Saturday,NORMAL
+TXN2999,James Robinson,Wire Transfer,171127.38,Completed,2024-12-07 00:00:00,Saturday,HIGH_RISK
+TXN3000,Silverline Technologies,POS Payment,35951.83,Failed,2024-08-23 00:00:00,Friday,NORMAL
